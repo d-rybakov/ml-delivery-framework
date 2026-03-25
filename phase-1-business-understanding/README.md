@@ -107,4 +107,4 @@ The phase is completed only after:
 ## Related Phases
 
 Next: `../phase-2-data-understanding/`  
-Full framework: root `README.md`
+Full framework: [README](../README.md)
