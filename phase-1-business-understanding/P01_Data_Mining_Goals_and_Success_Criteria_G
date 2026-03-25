@@ -1,0 +1,177 @@
+# P01_Data_Mining_Goals_Success_Criteria_G  
+**Data Mining Goals and Success Criteria**
+
+---
+
+## Document Information
+
+| Field | Value |
+|------|------|
+| Project Name | [e.g. Customer Churn Prediction] |
+| Project Code | [e.g. CCP-2025-01] |
+| CRISP-DM Phase | P01 — Business Understanding |
+| Artifact Level | G — Governance Artifact |
+| Document Owner (Role) | [Business Analyst / Product Owner] |
+| Version | [0.0.1] |
+| Last Updated | [DD Month YYYY] |
+| Document Status | [Draft / In Review / Approved] |
+
+---
+
+## Revision History
+
+| Version | Initials | Position | Date | Comments / Description of Changes |
+| :---- | :---- | :---- | :---- | :---- |
+| *0.1* |  |  |  |  |
+| *0.2* |  |  |  |  |
+| *0.3* |  |  |  |  |
+| *0.4* |  |  |  |  |
+| *0.5* |  |  |  |  |
+
+---
+
+## Approval and Sign-Off
+
+| Position | Name | Signature | Date |
+| :---- | :---- | :---- | :---- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+---
+
+# Introduction {#introduction}
+
+*\[Provide a high-level introduction to the document, explaining its role in translating business objectives into analytical goals and defining success criteria.\]*
+
+*\[Position the document within CRISP-DM Phase 1 (Business Understanding), Task 1.3 (Define Success Criteria).*
+
+*Clarify that the document establishes the analytical direction of the initiative and defines how success will be evaluated at a conceptual level.*
+
+*Avoid repeating detailed business context or problem description.\]*
+
+*\[**Example:** This document defines the data mining goals and corresponding success criteria for the initiative.*
+
+*It serves as a bridge between business objectives and analytical execution by outlining what the solution is expected to achieve and how its effectiveness will be evaluated.\]*
+
+## Purpose {#purpose}
+
+*\[Define the purpose of the document as establishing a clear analytical objective and evaluation framework for the initiative.\]*  
+*\[Describe how the document supports:*
+
+* *alignment between business and data teams*  
+* *formulation of analytical tasks*  
+* *definition of success at a measurable but preliminary level*
+
+*Focus on decision support and alignment.\]*  
+*\[**Example**: The purpose of this document is to translate business objectives into concrete analytical goals and define the criteria for evaluating their success.*  
+*It ensures alignment between stakeholders before progressing to data understanding and modeling activities.\]*
+
+## Audience {#audience}
+
+*\[Identify the stakeholders who rely on this document for alignment and decision-making.\]*
+
+*\[List primary users and briefly indicate how they use the document.\]*
+
+*\[**Example**: This document is intended for business stakeholders, business analysts, data scientists, and technical leads.*  
+*It supports shared understanding of analytical objectives and provides a reference for evaluating solution effectiveness.\]*
+
+## Definitions, Acronyms, and Abbreviations {#definitions,-acronyms,-and-abbreviations}
+
+*\[This subsection provides the definitions of all terms, acronyms, and abbreviations required to properly interpret the document. This information may be provided by reference to the project’s Glossary.\]*
+
+| \# | Term | Explanation |
+| ----- | :---- | :---- |
+| 1\. | *\[Data Mining Goal\]* | *\[A technical objective that defines the analytical task required to achieve a business objective.\]* |
+| 2\. | *\[Success Criteria\]* | *\[Conditions used to determine whether the analytical solution is sufficiently effective.\]* |
+| 3\. | *\[Analytical Task\]* | *\[The type of problem being solved (e.g., classification, regression, segmentation).\]* |
+| 4\. | *\[Baseline Approach\]* | *\[A simple reference method used for comparison when evaluating model performance.\]* |
+| 5\. |  |  |
+| 6 |  |  |
+| 7\. |  |  |
+
+## Document Overview {#document-overview}
+
+*\[Provide a concise overview of the document structure to guide the reader.\]*
+
+*\[Summarize the main sections and their roles.\]*
+
+*\[**Example**: Section 3 defines the data mining goals that translate business objectives into analytical tasks.*
+
+*Section 4 outlines the success criteria used to evaluate whether these goals have been achieved.\]*
+
+# References {#references}
+
+*\[This section contains links to all other places that were referred to in this document. These may include:*
+
+* *Documents on shared document control systems (such as SharePoint)*
+
+* *Web sites*
+
+* *URLs or network locations\]*
+
+| \# | Document | Explanation |
+| ----- | :---- | :---- |
+| 1\. | *\[P01\_Stakeholder\_Analysis\_G\]* | *\[Identifies key stakeholders, their roles, and engagement strategies.\]* |
+| 2\. | *\[P01\_Risk\_Assessment\_G\]* | *\[Documents project risks, their impact, and mitigation plans.\]* |
+| 3\. | *\[P01\_Business\_Problem\_Statement\_G\]* | *\[Defines the business context, problem, and intended outcomes.\]* |
+| 4\. | *\[P01\_Situation\_Assessment\_Report\_G\]* | *\[Provides assessment of resources, constraints, and feasibility.\]* |
+| 5\. |  |  |
+| 6 |  |  |
+| 7\. |  |  |
+
+# Data Mining Goals {#data-mining-goals}
+
+*\[Translate business objectives into clearly defined analytical objectives that specify what the data-driven solution is expected to produce.\]*
+
+*\[Formulate data mining goals as technical problem statements derived from business objectives.*
+
+*Each goal should:*
+
+* *define the type of analytical task (e.g., prediction, classification, segmentation)*  
+* *describe the target outcome (what is being predicted or analyzed)*  
+* *specify the time horizon or scope where applicable*  
+* *maintain alignment with business objectives defined in P01\_Business\_Problem\_Statement\_G*
+
+*Goals must remain solution-agnostic and should not include:*
+
+* *specific algorithms or modeling techniques*  
+* *assumptions about data quality or availability*  
+* *performance thresholds or evaluation metrics\]*
+
+*\[**Example**: Predict the probability that a customer will churn within the next 90 days based on historical behavioral and transactional data.\]*
+
+# Data Mining Success Criteria {#data-mining-success-criteria}
+
+*\[Define how the success of the data mining goals will be evaluated at a conceptual and measurable level, without assuming final model performance.\]*
+
+*\[Specify success criteria that indicate whether the analytical solution is sufficiently effective to support business objectives.*
+
+*Criteria should be defined across three dimensions:*
+
+* *Analytical feasibility (the solution demonstrates predictive or explanatory power beyond baseline approaches)*  
+* *Business usability (outputs are interpretable and actionable for business users)*  
+* *Comparative improvement (the solution provides measurable improvement over current processes or heuristics)*
+
+*Where quantitative metrics are introduced, they should be:*
+
+* *indicative rather than final*  
+* *subject to refinement after Data Understanding and Modeling phases*
+
+*If subjective evaluation is required, identify the responsible decision-makers.*
+
+*Avoid including:*
+
+* *final model performance targets*  
+* *deployment or operational KPIs*  
+* *monitoring or post-deployment metrics\]*
+
+*\[**Example**: The analytical solution should demonstrate meaningful predictive capability compared to a random or rule-based baseline.*
+
+*Model outputs must be interpretable and usable by business stakeholders to support retention decisions.*
+
+*The approach should show clear improvement over existing manual segmentation practices.*
+
+*Specific performance thresholds will be refined after initial data exploration.\]*
