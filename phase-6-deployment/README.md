@@ -71,7 +71,7 @@ These documents define deployment decisions, monitoring strategy, and final repo
 
 ---
 
-### Logs, Dashboards & Data Artifacts
+### Operational Artifacts
 
 - **Deployed Model (Prod Instance)**  
   Production instance of the trained and approved model.
