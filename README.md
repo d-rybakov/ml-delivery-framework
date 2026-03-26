@@ -68,7 +68,7 @@ The framework follows CRISP-DM phases:
 - [Phase 2 - Data Understanding  ](./phase-2-data-understanding/)
 - [Phase 3 - Data Preparation  ](./phase-3-data-preparation/)
 - [Phase 4 - Modeling  ](./phase-4-modeling/)
-- [Phase 5 - Evaluation ] (./phase-5-evaluation/)
+- [Phase 5 - Evaluation ](./phase-5-evaluation/)
 - [Phase 6 - Deployment  ](./phase-6-deployment/)
 
 Each phase contains:
