@@ -110,6 +110,6 @@ Adapted for structured ML delivery and practical implementation.
 
 ## Additional Resources
 
-Extended versions of the documents (including detailed guidance and examples) are available here:
+Full template set with detailed guidance and examples is available in Google Drive.
 
 <link>
