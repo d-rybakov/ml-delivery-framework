@@ -1,21 +1,19 @@
 # P01_Data_Mining_Goals_Success_Criteria_G  
-**Data Mining Goals and Success Criteria**
+Document Name: **Data Mining Goals and Success Criteria**
 
 ---
-<span style="color:blue">[span]</span>
-*<font color="blue">[**Example**: Predict the probability that a customer will churn within the next 90 days based on historical behavioral and transactional data.]</font>*
 ## Document Information
 
 | Field | Value |
 |------|------|
-| Project Name | [e.g. Customer Churn Prediction] |
-| Project Code | [e.g. CCP-2025-01] |
-| CRISP-DM Phase | P01 — Business Understanding |
-| Artifact Level | G — Governance Artifact |
-| Document Owner (Role) | [Business Analyst / Product Owner] |
-| Version | [0.0.1] |
-| Last Updated | [DD Month YYYY] |
-| Document Status | [Draft / In Review / Approved] |
+| Project Name | *[e.g. Customer Churn Prediction]* |
+| Project Code | *[e.g. CCP-2025-01]* |
+| CRISP-DM Phase | P01 - Business Understanding |
+| Artifact Level | G - Governance Artifact |
+| Document Owner (Role) | *[Business Analyst / Product Owner]* |
+| Version | *[0.0.1]* |
+| Last Updated | *[DD Month YYYY]* |
+| Document Status | *[Draft / In Review / Approved]* |
 
 ---
 
