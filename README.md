@@ -38,7 +38,7 @@ This structure ensures:
 
 - clear ownership and accountability  
 - traceability of decisions and transformations  
-- separation between governance and execution layers  
+- separation between governance and execution layers
 
 ## Example Context
 
@@ -49,6 +49,16 @@ The examples are:
 - illustrative, not production scenarios  
 - intentionally independent across documents  
 - designed to demonstrate how templates should be completed  
+
+## Notes on Template Usage
+
+Text in square brackets `[ ... ]` represents guidance for completing the document, including:
+
+- intent of the section  
+- instructions for writing content  
+- illustrative examples  
+
+In actual project usage, these sections are replaced with real content.
 
 ## Framework Structure
 
