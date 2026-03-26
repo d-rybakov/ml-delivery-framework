@@ -93,8 +93,7 @@ It can be adapted to:
 
 ## Status
 
-Initial version.  
-The framework is being progressively expanded with templates and examples.
+Version 0.1 - Initial release. Remaining templates being progressively added.
 
 ## Author
 
