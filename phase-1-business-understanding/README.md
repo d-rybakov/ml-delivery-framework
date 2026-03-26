@@ -40,7 +40,7 @@ This ensures that all downstream ML work is:
 | 1.2 Assess Situation | P01_Stakeholder_Analysis_G |
 | 1.2 Assess Situation | P01_Risk_Assessment_G |
 | 1.2 Assess Situation | P01_Situation_Assessment_Report_G |
-| 1.3 Define Success Criteria | P01_Data_Mining_Goals_Success_Criteria_G |
+| 1.3 Define Success Criteria | [P01_Data_Mining_Goals_Success_Criteria_G](P01_Data_Mining_Goals_and_Success_Criteria_G.md) |
 | 1.4 Develop Project Plan | P01_Project_Plan_G |
 | 1.4 Develop Project Plan | P01_Phase_Gate_Framework_G |
 
