@@ -1,4 +1,4 @@
-# Phase 2 — Data Understanding
+# Phase 2 - Data Understanding
 
 ## Overview
 
@@ -89,12 +89,12 @@ All key outcomes of the phase are achieved (see **Key Outcomes** section).
   - or explicitly documented and accepted  
 
 A formal decision is made to proceed to:  
-**Phase 3 — Data Preparation**
+**Phase 3 - Data Preparation**
 
 ---
 
 ## Related Phases
 
-Next: [Phase 3 — Data Preparation](../phase-3-data-preparation/)  
-Previous: [Phase 1 — Business Understanding](../phase-1-business-understanding/)  
+Next: [Phase 3 - Data Preparation](../phase-3-data-preparation/)  
+Previous: [Phase 1 - Business Understanding](../phase-1-business-understanding/)  
 Full framework: [README](../README.md)
