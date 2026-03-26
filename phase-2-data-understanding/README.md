@@ -10,7 +10,7 @@ Its purpose is to:
 - explore data to generate initial insights  
 - assess data quality and identify potential issues  
 
-In this framework, Phase 2 acts as a **data validation and understanding layer**, ensuring that the dataset is suitable for дальнейшей подготовки и моделирования.
+In this framework, Phase 2 acts as a **data validation and understanding layer**, ensuring that the dataset is suitable further preparation and modeling.
 
 ---
 
@@ -78,7 +78,7 @@ The phase is completed only after both conditions are met:
 
 ### 1. Outcome Validation
 
-All key outcomes of the phase are achieved (see **Key Outcomes** section).
+All key outcomes of the phase are achieved (see [**Key Outcomes**](#key-outcomes) section).
 
 ### 2. Data Readiness Validation
 
