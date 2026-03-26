@@ -92,15 +92,24 @@ Each deliverable acts as a **control mechanism**, ensuring that:
 
 ## Phase Gate
 
-The phase is completed only after:
+The phase is completed only after both conditions are met:
 
-- all Governance artifacts are:
-  - completed
-  - reviewed
-  - approved
+### 1. Outcome Validation
 
-- a formal decision is made to proceed to:
-  **Phase 2 - Data Understanding**
+All key outcomes of the phase are achieved (see [**Key Outcomes**](#key-outcomes) section).
+
+Each outcome must be traceable to one or more Governance artifacts.
+
+### 2. Governance Validation
+
+All Governance artifacts are:
+
+- completed  
+- reviewed  
+- approved  
+
+A formal decision is made to proceed to:  
+**Phase 2 — Data Understanding**
 
 ---
 
