@@ -35,7 +35,7 @@ This ensures that the solution is **operational, maintainable, and supported in 
 | CRISP-DM Task | Deliverables |
 |--------------|-------------|
 | 6.1 Deploy Model | Deployed Model (Prod Instance), P06_Deployment_Plan_G, P06_Deployment_Execution_Report_G |
-| 6.2 Monitor and Maintain Model | Model Monitoring Dashboard, P06_Model_Monitoring_Framework_G, P06_Model_Operations_Runbook_T |
+| 6.2 Monitor and Maintain Model | Model Monitoring Dashboard, P06_Model_Monitoring_and_Maintenance_Framework_G, P06_Model_Operations_Runbook_T |
 | 6.3 Final Report | P06_Final_Project_Report_G, Executive Presentation (optional) |
 | 6.4 Review Project | P06_Lessons_Learned_G |
 
@@ -53,7 +53,7 @@ These documents define deployment decisions, monitoring strategy, and final repo
 - **P06_Deployment_Execution_Report_G**  
   Documents deployment execution and outcomes.
 
-- **P06_Model_Monitoring_Framework_G**  
+- **P06_Model_Monitoring_and_Maintenance_Framework_G**  
   Defines monitoring strategy, KPIs, and alerting approach.
 
 - **P06_Final_Project_Report_G**  
