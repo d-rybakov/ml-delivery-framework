@@ -106,4 +106,10 @@ Data / AI Delivery
 Based on the [original CRISP-DM](https://web.archive.org/web/20220401041957/https://www.the-modeling-agency.com/crisp-dm.pdf) framework  
 (Chapman et al., 2000).
 
-Adapted for structured ML delivery and practical implementation.
+Adapted for structured ML delivery and practical implementation.  
+
+## Additional Resources
+
+Extended versions of the documents (including detailed guidance and examples) are available here:
+
+<link>
