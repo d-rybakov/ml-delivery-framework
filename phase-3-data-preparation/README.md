@@ -128,6 +128,6 @@ A formal decision is made to proceed to:
 
 ## Related Phases
 
-Next: [Phase 4 — Modeling](../phase-4-modeling/)  
-Previous: [Phase 2 — Data Understanding](../phase-2-data-understanding/)  
+Next: [Phase 4 - Modeling](../phase-4-modeling/)  
+Previous: [Phase 2 - Data Understanding](../phase-2-data-understanding/)  
 Full framework: [README](../README.md)
