@@ -1,4 +1,4 @@
-# Phase 1 — Business Understanding
+# Phase 1 - Business Understanding
 
 ## Overview
 
@@ -100,7 +100,7 @@ The phase is completed only after:
   - approved
 
 - a formal decision is made to proceed to:
-  **Phase 2 — Data Understanding**
+  **Phase 2 - Data Understanding**
 
 ---
 
