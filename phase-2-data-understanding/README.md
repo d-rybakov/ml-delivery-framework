@@ -89,7 +89,7 @@ All key outcomes of the phase are achieved (see [**Key Outcomes**](#key-outcomes
   - or explicitly documented and accepted  
 
 A formal decision is made to proceed to:  
-**Phase 3 - Data Preparation**
+[**Phase 3 - Data Preparation**](./phase-3-data-preparation/)
 
 ---
 
