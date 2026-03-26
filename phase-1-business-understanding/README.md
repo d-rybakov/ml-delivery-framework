@@ -64,7 +64,7 @@ These documents define project direction and require formal approval.
 - **P01_Situation_Assessment_Report_G**  
   Evaluates organizational readiness, resources, and feasibility.
 
-- **P01_Data_Mining_Goals_Success_Criteria_G**  
+- [**P01_Data_Mining_Goals_Success_Criteria_G**](./P01_Data_Mining_Goals_and_Success_Criteria_G.md)  
   Translates business goals into measurable analytical targets.
 
 - **P01_Project_Plan_G**  
