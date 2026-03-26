@@ -106,11 +106,11 @@ All Governance artifacts are:
 - approved  
 
 A formal decision is made to proceed to:  
-[**Phase 2 — Data Understanding**](../phase-2-data-understanding/)
+[**Phase 2 - Data Understanding**](../phase-2-data-understanding/)
 
 ---
 
 ## Related Phases
 
-Next: [Phase 2 - Data Understanding](../phase-2-data-understanding/)
+Next: [Phase 2 - Data Understanding](../phase-2-data-understanding/)  
 Full framework: [README](../README.md)
