@@ -115,7 +115,7 @@ All key outcomes of the phase are achieved (see [**Key Outcomes**](#key-outcomes
 - Model configuration and training parameters are finalized  
 
 A formal decision is made to proceed to:  
-**Phase 5 — Evaluation**
+[**Phase 5 - Evaluation**](../phase-5-evaluation/)
 
 ---
 
