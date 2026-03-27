@@ -1,4 +1,5 @@
 # P01_Data_Mining_Goals_Success_Criteria_G  
+
 Document Name: **Data Mining Goals and Success Criteria**
 
 ---
@@ -13,10 +14,13 @@ Document Name: **Data Mining Goals and Success Criteria**
 | Document Owner (Role) | *[Business Analyst / Product Owner]* |
 | Version | *[0.0.1]* |
 | Last Updated | *[DD Month YYYY]* |
-| Document Status | *[Draft / In Review / Approved]* |
+| Document Status | *[Draft / In Review / Approved]* |  
 
 ---
 
+Working version: [Google Docs template](https://cutt.ly/qtPgk70A)
+
+---
 ## Revision History
 
 | Version | Initials | Position | Date | Comments / Description of Changes |
