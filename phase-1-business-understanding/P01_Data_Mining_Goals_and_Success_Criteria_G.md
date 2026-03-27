@@ -101,9 +101,9 @@ Working version: [Google Docs template](https://cutt.ly/qtPgk70A)
 
 *\[Summarize the main sections and their roles.\]*
 
-*\[**Example**: Section 3 defines the data mining goals that translate business objectives into analytical tasks.*
+*\[**Example**: Section [Data Mining Goals](#data-mining-goals) defines the data mining goals that translate business objectives into analytical tasks.*
 
-*Section 4 outlines the success criteria used to evaluate whether these goals have been achieved.\]*
+*Section [Data Mining Success Criteria](#data-mining-success-criteria) outlines the success criteria used to evaluate whether these goals have been achieved.\]*
 
 # References
 
