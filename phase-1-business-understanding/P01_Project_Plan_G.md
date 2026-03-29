@@ -144,7 +144,7 @@ This Project Plan becomes effective upon final approval by the designated author
 | 7. |  |  |
 
 
-3. # Project Information {#project-information}
+# Project Information
 
 *\[Provide structured contextual information about the project required for execution planning, prioritization, coordination, and governance alignment.\]*
 
@@ -158,7 +158,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: The Customer Churn Prediction project is classified as a strategic customer initiative aimed at improving retention through predictive analytics. The project involves cross-functional collaboration between business, data, and IT teams and requires structured execution planning aligned with governance controls.\]*
 
-1. ## Project Category and Priority {#project-category-and-priority}
+## Project Category and Priority
 
 *\[Define how the project is classified and prioritized to guide resource allocation, execution focus, and governance attention.\]*
 
@@ -176,7 +176,7 @@ Project Priority: \[*High\\Middle\\Low\] \[**Example:** High\]*
 
 Business Impact Level: *\[Strategic / Tactical / Operational\] \[**Example:** Strategic\]*
 
-2. ## Project Organization {#project-organization}
+## Project Organization
 
 \[Define the execution structure and role distribution within the project, ensuring clear accountability, authority boundaries, and operational responsibilities required for coordinated project delivery.\]
 
