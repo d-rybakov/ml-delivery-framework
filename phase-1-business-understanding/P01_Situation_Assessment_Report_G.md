@@ -106,13 +106,13 @@ Working version: [Google Docs template](https://cutt.ly/otPgdpeK)
 
 *\[**Example**: The document is structured as follows:*
 
-*Section 3 provides an overview of available resources, including human, data, and technical assets.*
+*Section [Resource Inventory](#resource-inventory) provides an overview of available resources, including human, data, and technical assets.*
 
-*Section 4 outlines key requirements, assumptions, and constraints shaping the initiative.*
+*Section [Requirements, Assumptions, and Constraints](#requirements,-assumptions,-and-constraints) outlines key requirements, assumptions, and constraints shaping the initiative.*
 
-*Section 5 presents a high-level cost-benefit perspective.*
+*Section [Cost-Benefit Overview](#cost-benefit-overview) presents a high-level cost-benefit perspective.*
 
-*Section 6 identifies dependencies and external factors influencing the project context.\]*
+*Section [Dependencies and External Factors](#dependencies-and-external-factors) identifies dependencies and external factors influencing the project context.\]*
 
 # References
 
