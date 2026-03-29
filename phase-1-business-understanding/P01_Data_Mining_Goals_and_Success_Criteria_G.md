@@ -117,10 +117,10 @@ Working version: [Google Docs template](https://cutt.ly/qtPgk70A)
 
 | \# | Document | Explanation |
 | ----- | :---- | :---- |
-| 1\. | *\[P01\_Stakeholder\_Analysis\_G\]* | *\[Identifies key stakeholders, their roles, and engagement strategies.\]* |
-| 2\. | *\[P01\_Risk\_Assessment\_G\]* | *\[Documents project risks, their impact, and mitigation plans.\]* |
-| 3\. | *\[P01\_Business\_Problem\_Statement\_G\]* | *\[Defines the business context, problem, and intended outcomes.\]* |
-| 4\. | *\[P01\_Situation\_Assessment\_Report\_G\]* | *\[Provides assessment of resources, constraints, and feasibility.\]* |
+| 1\. | *\[[P01\_Stakeholder\_Analysis\_G](./P01_Stakeholder_Analysis_G.md)\]* | *\[Identifies key stakeholders, their roles, and engagement strategies.\]* |
+| 2\. | *\[[P01\_Risk\_Assessment\_G](./P01_Risk_Assessment_G.md)\]* | *\[Documents project risks, their impact, and mitigation plans.\]* |
+| 3\. | *\[[P01\_Business\_Problem\_Statement\_G](./P01_Business_Problem_Statement_G.md)\]* | *\[Defines the business context, problem, and intended outcomes.\]* |
+| 4\. | *\[[P01\_Situation\_Assessment\_Report\_G](./P01_Situation_Assessment_Report_G.md)\]* | *\[Provides assessment of resources, constraints, and feasibility.\]* |
 | 5\. |  |  |
 | 6 |  |  |
 | 7\. |  |  |
