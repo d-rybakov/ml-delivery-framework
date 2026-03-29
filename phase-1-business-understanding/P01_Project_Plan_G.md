@@ -664,7 +664,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[Describe how changes affecting scope, timeline, resources, or deliverables are managed. see [P01\_Change\_Management\_Log\_L](https://cutt.ly/otP2H1gO)*
 
-*A Change Request must be initiated when deviation from the approved baseline (see Section 3.5) is required.*
+*A Change Request must be initiated when deviation from the approved baseline (see Section 3.5 [Project Scope](#project-scope)) is required.*
 
 *Ensure that each change is:*
 
@@ -676,7 +676,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: If additional analytical functionality beyond churn prediction is requested, a formal change request is submitted, evaluated, and approved before inclusion in the project scope.\]*
 
-2. ### Configuration Management {#configuration-management}
+### Configuration Management
 
 *\[Ensure integrity, traceability, and reproducibility of all analytical and project artifacts.\]*
 
@@ -699,11 +699,11 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: Each version of the churn prediction model is stored with associated feature definitions, training data references, and performance results, enabling full reproducibility of outcomes.\]*
 
-3. ### Issue Tracking {#issue-tracking}
+### Issue Tracking
 
 *\[Define the process for managing active problems that impact project execution.\]*
 
-*\[Describe how issues are identified, documented, prioritized, and resolved. see [P01\_Issue\_Log\_L](https://cutt.ly/YtP2Vyed)*
+*\[Describe how issues are identified, documented, prioritized, and resolved. see [P01\_Issue\_Log\_L](./P01_Issue_Log_L.md)*
 
 *An issue represents an active obstacle requiring corrective action.*
 
@@ -718,7 +718,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: If access to CRM data is temporarily unavailable, the issue is logged, assigned to the responsible team, tracked until resolution, and escalated if it impacts project timelines.\]*
 
-4. ### Risk Management {#risk-management}
+### Risk Management
 
 *\[Define the process for proactive identification and management of potential risks affecting project objectives.\]*
 
@@ -736,11 +736,11 @@ This Project Plan becomes effective upon final approval by the designated author
 *Risk status should be considered during phase-level evaluation and decision-making.*
 
 *Detailed risk registers and assessment examples are maintained in:*  
- [***P01\_Risk\_Assessment\_G***](https://cutt.ly/P01-RA-G)***\]***
+ [***P01\_Risk\_Assessment\_G***](./P01_Risk_Assessment_G.md)***\]***
 
 *\[**Example:** The risk of incomplete churn labeling is identified early, mitigation actions are defined (data validation and enrichment), and the risk is monitored throughout data preparation and modeling phases.\]*
 
-5. ### Quality Management {#quality-management}
+### Quality Management
 
 *\[Ensure that project deliverables meet business, analytical, and governance expectations.\]*
 
@@ -748,8 +748,8 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *Ensure that:*
 
-* *Deliverables align with Business Objectives (see Section 3.4)*  
-* *Analytical results meet defined success criteria (see [P01\_Data\_Mining\_Goals\_and\_Success\_Criteria\_G](https://cutt.ly/qtPgk70A))*  
+* *Deliverables align with Business Objectives (see Section 3.4 [Objective/Expected Results](#objectiveexpected-results))*  
+* *Analytical results meet defined success criteria (see [P01\_Data\_Mining\_Goals\_and\_Success\_Criteria\_G](./P01_Data_Mining_Goals_and_Success_Criteria_G.md))*  
 * *Outputs are validated before phase completion*  
 * *Documentation is complete and consistent*  
 * *Analytical processes are reproducible*
@@ -758,7 +758,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example:** Model performance is validated against defined criteria, analytical logic is reviewed, and documentation is verified before confirming completion of the modeling phase.\]*
 
-2. ## Key Deliverables \- Tangible Project (Phase) Results {#key-deliverables---tangible-project-(phase)-results}
+## Key Deliverables \- Tangible Project (Phase) Results
 
 *\[Define the formal deliverables produced throughout the project lifecycle as tangible and reviewable outputs of CRISP-DM phases.\]*
 
@@ -788,13 +788,13 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *All deliverables are subject to:*
 
-* *Quality validation (see Section 4.1.5)*  
-* *Phase completion criteria (see Section 3.5.5)*  
+* *Quality validation (see Section 4.1.5 [Quality Management](#quality-management)*  
+* *Phase completion criteria (see Section 3.5.5 [Project / Phase Finalization Criteria](#project--phase-finalization-criteria))*  
 * *Formal approval as part of phase transition governance\]*
 
 *\[**Example**: In the Customer Churn Prediction project, key deliverables include the business problem definition, prepared analytical dataset, trained and validated predictive model, evaluation report reviewed by business stakeholders, and deployment documentation supporting integration into operational systems.\]*
 
-3. ## Project Progress Tracking {#project-progress-tracking}
+## Project Progress Tracking
 
 *\[Define mechanisms for monitoring and controlling project execution against the approved baseline.\]*
 
@@ -804,11 +804,11 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *Progress must be assessed based on:*
 
-* *Completion status of defined deliverables (see Section 4.2)*  
+* *Completion status of defined deliverables (see Section 4.2 [Key Deliverables \- Tangible Project (Phase) Results](#key-deliverables---tangible-project-\(phase\)-results))*  
 * *Status of CRISP-DM phases*  
-* *Achievement of defined milestones (see Section 5.2)*  
-* *Current state of risks and issues (see Sections 4.1.4 and 4.1.3)*  
-* *Status of approved and pending change requests (see Section 4.1.1)*
+* *Achievement of defined milestones (see Section 5.2 [Project Timeline (Gantt Chart or Milestones)](#project-timeline-\(gantt-chart-or-milestones\)))*  
+* *Current state of risks and issues (see Sections 4.1.4 [Risk Management](#risk-management) and 4.1.3 [Issue Tracking](#issue-tracking))*  
+* *Status of approved and pending change requests (see Section 4.1.1 [Change Management](#change-management) )*
 
 *Tracking must be performed through:*
 
@@ -832,7 +832,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: In the Customer Churn Prediction project, progress is tracked by monitoring completion of CRISP-DM phase deliverables, validating readiness for phase transition, tracking milestone achievement, and reviewing risks, issues, and change requests as part of regular status control.\]*
 
-4. ## Project Measurements {#project-measurements}
+## Project Measurements
 
 *\[Define performance measurement mechanisms used to evaluate project execution efficiency and governance effectiveness.\]*
 
@@ -864,11 +864,11 @@ This Project Plan becomes effective upon final approval by the designated author
   *Evaluation of effectiveness of control mechanisms.*  
   *Examples include issue resolution time, change request processing time, and responsiveness of governance processes.*
 
-*Project measurements must be interpreted in the context of project progress tracking (see Section 4.3) and used to support informed management actions.\]*
+*Project measurements must be interpreted in the context of project progress tracking (see Section 4.3 [Project Progress Tracking](#project-progress-tracking) ) and used to support informed management actions.\]*
 
 *\[**Example**: In the Customer Churn Prediction project, measurements include monitoring the number of change requests during modeling iterations, evaluating issue resolution time, and assessing stability of resource allocation across CRISP-DM phases.\]*
 
-5. # Project Size {#project-size}
+# Project Size
 
 *\[Define the overall scale, complexity, and expected effort of the project to support high-level planning and resource estimation.\]*
 
@@ -901,7 +901,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: The Customer Churn Prediction project is classified as Medium size due to multiple data sources, iterative model development, cross-functional stakeholder involvement, and integration with CRM systems. Estimated duration range is 3–6 months.\]*
 
-1. ## Project Budget & Resources {#project-budget-&-resources}
+## Project Budget & Resources
 
 *\[Define the financial baseline and high-level resource and technology requirements required for project execution.\]*
 
@@ -911,17 +911,17 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *Budget and resource definitions must be aligned with:*
 
-* *Project scope (see Section 3.5)*  
-* *Project size and complexity (see Section 5\)*  
+* *Project scope (see Section 3.5 [Project Scope](#project-scope))*  
+* *Project size and complexity (see Section 5 [Project Size](#project-size) \)*  
 * *Expected execution model and iteration cycles*
 
-*Detailed allocation of effort and resource distribution across phases is defined separately (see Section 5.3).*
+*Detailed allocation of effort and resource distribution across phases is defined separately (see Section 5.3 [Resource Plan](#resource-plan) ).*
 
-*Any changes to budget or resource baseline must follow formal change management procedures (see Section 4.1.1).\]*
+*Any changes to budget or resource baseline must follow formal change management procedures (see Section 4.1.1 [Change Management](#change-management)).\]*
 
 *\[**Example**: The project defines an initial financial and resource baseline covering personnel effort, infrastructure, and required technical roles to support analytical development and deployment.\]*
 
-1. ## Estimated Budget {#estimated-budget}
+## Estimated Budget
 
 *\[Define the preliminary financial estimate required for project execution.\]*
 
@@ -943,7 +943,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: Estimated Budget: $250,000, including personnel effort, cloud infrastructure, analytical environment setup, and reporting tools.\]*
 
-2. ## High-Level Resource Requirements {#high-level-resource-requirements}
+## High-Level Resource Requirements
 
 *\[Define the core roles required to execute the project at a high level.\]*
 
@@ -960,11 +960,11 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *Resource requirements should consider expected iteration cycles, integration needs, and governance requirements.*
 
-*Detailed effort allocation and workload distribution are defined in the Resource Plan (see Section 5.3).\]*
+*Detailed effort allocation and workload distribution are defined in the Resource Plan (see Section 5.3 [Resource Plan](#resource-plan) ).\]*
 
 *\[**Example**: The project requires a cross-functional team including 2 Data Scientists, 1 Data Engineer, 1 ML Engineer, and 1 Business Analyst.\]*
 
-3. ## Technology Environment {#technology-environment}
+## Technology Environment
 
 *\[Define the high-level technology environment required to support project execution.\]*
 
@@ -986,7 +986,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 ## 
 
-2. ## Project Timeline (Gantt Chart or Milestones) {#project-timeline-(gantt-chart-or-milestones)}
+## Project Timeline (Gantt Chart or Milestones)
 
 *\[Define the planned temporal structure of the project, including phase sequencing, milestone checkpoints, and iteration logic.\]*
 
@@ -1010,9 +1010,9 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *Monitoring and Maintenance activities may be defined as ongoing operational processes following deployment and are not strictly bounded by the core project timeline.*
 
-*The timeline serves as the planning baseline and must be used in conjunction with project progress tracking (see Section 4.3).*
+*The timeline serves as the planning baseline and must be used in conjunction with project progress tracking (see Section 4.3 [Project Progress Tracking](#project-progress-tracking) ).*
 
-*Effort estimation and detailed resource allocation are defined separately (see Section 5.3).\]*
+*Effort estimation and detailed resource allocation are defined separately (see Section 5.3 [Resource Plan](#resource-plan)).\]*
 
 *\[**Example**: The Customer Churn Prediction project timeline is structured around CRISP-DM phases, with defined milestones such as business problem approval, data readiness validation, model selection, and final deployment approval.*
 
@@ -1043,7 +1043,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\]*
 
-3. ## Resource Plan {#resource-plan}
+## Resource Plan
 
 *\[Define the high-level allocation of project roles across CRISP-DM phases to support planning and coordination of project execution.\]*
 
@@ -1053,8 +1053,8 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *Resource allocation must be structured by:*
 
-* *Project role (see Section 5.1.2)*  
-* *CRISP-DM phase (see Section 5.2)*  
+* *Project role (see Section 5.1.2 [High-Level Resource Requirements](#high-level-resource-requirements) )*  
+* *CRISP-DM phase (see Section 5.2 [Project Timeline (Gantt Chart or Milestones)](#project-timeline-\(gantt-chart-or-milestones\)) )*  
 * *Level of involvement*
 
 *The purpose of this section is to:*
@@ -1087,7 +1087,7 @@ This Project Plan becomes effective upon final approval by the designated author
 | **Deployment** | *\[Medium\]* | *\[Medium\]* | *\[High\]* | *\[Low\]* |
 | **Monitoring & Maintenance** | *\[Low\]* | *\[Low\]* | *\[Medium\]* | *\[Low\]* |
 
-6. # Appendix {#appendix}
+# Appendix
 
 *\[Provide supplementary materials that support the Project Plan without overloading the core governance document.\]*
 
