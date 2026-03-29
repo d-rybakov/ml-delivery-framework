@@ -482,7 +482,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *This section must serve as the baseline for scope control and change management.*
 
-*Scope definition must be aligned with [Business Objective](#objective/expected-results) and execution planning, without duplicating governance artifacts.*
+*Scope definition must be aligned with [Business Objective](#objectiveexpected-results) and execution planning, without duplicating governance artifacts.*
 
 *Ensure that all elements are verifiable and actionable from an execution perspective.\]*
 
