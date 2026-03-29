@@ -22,7 +22,12 @@ Key principles:
 - Outputs are formalized as artifacts  
 - Artifacts serve as review and control checkpoints  
 - Checkpoints enable predictable and controlled delivery  
-- The lifecycle remains iterative and adaptable to project complexity  
+- The lifecycle remains iterative and adaptable to project complexity
+
+## Quick Start
+[CRISP-DM Delivery Reference](https://rebrand.ly/crisp-delivery) - 
+interactive navigator with links to all templates.
+Available in Google Slides preview mode.
 
 ## Documentation Architecture
 
@@ -106,9 +111,3 @@ Based on the [original CRISP-DM](https://web.archive.org/web/20220401041957/http
 (Chapman et al., 2000).
 
 Adapted for structured ML delivery and practical implementation.  
-
-## Additional Resources
-
-Full template set with detailed guidance and examples is available in Google Drive.
-
-<link>
