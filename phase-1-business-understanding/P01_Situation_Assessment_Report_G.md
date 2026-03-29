@@ -126,8 +126,8 @@ Working version: [Google Docs template](https://cutt.ly/otPgdpeK)
 
 | # | Document | Explanation |
 |-----|:----|:----|
-| 1. | *\[P01_Stakeholder_Analysis_G\]* | *\[Identifies key stakeholders, their roles, and engagement strategies.\]* |
-| 2. | *\[P01_Risk_Assessment_G\]* | *\[Documents project risks, their impact, and mitigation plans.\]* |
+| 1. | *\[[P01_Stakeholder_Analysis_G](./P01_Stakeholder_Analysis_G.md)\]* | *\[Identifies key stakeholders, their roles, and engagement strategies.\]* |
+| 2. | *\[[P01_Risk_Assessment_G](./P01_Risk_Assessment_G.md)\]* | *\[Documents project risks, their impact, and mitigation plans.\]* |
 | 3. | *\[[P01_Business_Problem_Statement_G](./P01_Business_Problem_Statement_G.md)\]* | *\[Defines the business context, problem, and intended outcomes.\]* |
 | 4. | *\[Enterprise Data Governance Policy\]* | *\[Defines rules and constraints for data usage and access.\]* |
 | 5. |  |  |
