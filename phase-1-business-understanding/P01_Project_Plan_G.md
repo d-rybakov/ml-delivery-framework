@@ -138,7 +138,7 @@ This Project Plan becomes effective upon final approval by the designated author
 | 1. | *\[[P01_Business_Problem_Statement_G](./P01_Business_Problem_Statement_G.md)\]* | *\[Defines business context, objectives, and expected outcomes\]* |
 | 2. | *\[[P01_Situation_Assessment_Report_G](./P01_Situation_Assessment_Report_G.md)\]* | *\[Provides analysis of resources, constraints, and feasibility\]* |
 | 3. | *\[[P01_Data_Mining_Goals_and_Success_Criteria_G](./P01_Data_Mining_Goals_and_Success_Criteria_G.md)\]* | *\[Defines analytical objectives and success thresholds\]* |
-| 4. | *\[P01_Phase_Gate_Framework_G\]* | *\[Defines governance controls for phase transitions\]* |
+| 4. | *\[[P01_Phase_Gate_Framework_G](./P01_Phase_Gate_Framework_G.md)\]* | *\[Defines governance controls for phase transitions\]* |
 | 5. |  |  |
 | 6 |  |  |
 | 7. |  |  |
