@@ -37,9 +37,9 @@ This ensures that all downstream ML work is:
 | CRISP-DM Task | Deliverables |
 |--------------|-------------|
 | 1.1 Define Business Objectives | [P01_Business_Problem_Statement_G](./P01_Business_Problem_Statement_G.md) |
-| 1.2 Assess Situation | [P01_Situation_Assessment_Report_G](./P01_Situation_Assessment_Report_G.md),<br>P01_Stakeholder_Analysis_G,<br>P01_Risk_Assessment_G  |
+| 1.2 Assess Situation | [P01_Situation_Assessment_Report_G](./P01_Situation_Assessment_Report_G.md),<br>[P01_Stakeholder_Analysis_G](./P01_Stakeholder_Analysis_G.md),<br>[P01_Risk_Assessment_G](./P01_Risk_Assessment_G.md)  |
 | 1.3 Define Success Criteria | [P01_Data_Mining_Goals_Success_Criteria_G](./P01_Data_Mining_Goals_and_Success_Criteria_G.md) |
-| 1.4 Develop Project Plan | [P01_Project_Plan_G](./P01_Project_Plan_G.md),<br>P01_Phase_Gate_Framework_G |
+| 1.4 Develop Project Plan | [P01_Project_Plan_G](./P01_Project_Plan_G.md),<br>[P01_Phase_Gate_Framework_G](./P01_Phase_Gate_Framework_G.md) |
 
 ---
 
@@ -52,10 +52,10 @@ These documents define project direction and require formal approval.
 - [**P01_Business_Problem_Statement_G**](./P01_Business_Problem_Statement_G.md)  
   Defines the business problem, objectives, and expected value.
 
-- **P01_Stakeholder_Analysis_G**  
+- [**P01_Stakeholder_Analysis_G**](./P01_Stakeholder_Analysis_G.md)  
   Identifies stakeholders, roles, and influence.
 
-- **P01_Risk_Assessment_G**  
+- [**P01_Risk_Assessment_G**](./P01_Risk_Assessment_G.md)  
   Documents risks, assumptions, and constraints.
 
 - [**P01_Situation_Assessment_Report_G**](./P01_Situation_Assessment_Report_G.md)  
@@ -67,7 +67,7 @@ These documents define project direction and require formal approval.
 - [**P01_Project_Plan_G**](./P01_Project_Plan_G.md)  
   Defines scope, timeline, resources, and execution approach.
 
-- **P01_Phase_Gate_Framework_G**  
+- [**P01_Phase_Gate_Framework_G**](./P01_Phase_Gate_Framework_G.md)  
   Establishes governance checkpoints for phase transitions.
 
 ---
