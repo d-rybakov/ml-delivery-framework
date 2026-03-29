@@ -108,7 +108,7 @@ Working version: [Google Docs template](https://cutt.ly/otPgdpeK)
 
 *Section [Resource Inventory](#resource-inventory) provides an overview of available resources, including human, data, and technical assets.*
 
-*Section [Requirements, Assumptions, and Constraints](#requirements,-assumptions,-and-constraints) outlines key requirements, assumptions, and constraints shaping the initiative.*
+*Section [Requirements, Assumptions, and Constraints](#requirements-assumptions-and-constraints) outlines key requirements, assumptions, and constraints shaping the initiative.*
 
 *Section [Cost-Benefit Overview](#cost-benefit-overview) presents a high-level cost-benefit perspective.*
 
