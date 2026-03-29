@@ -52,9 +52,9 @@ Working version: [Google Docs template](https://cutt.ly/P01-BPS-G)
 
 *Clarify that the document establishes a structured understanding of the business problem, its context, and intended outcomes.*
 
-*Avoid detailed descriptions of specific sections (covered in 1.4).*
+*Avoid detailed descriptions of specific sections (covered in [Document Overview](#document-overview)).*
 
-*Avoid repeating the formal purpose statement (covered in 1.1).\]*
+*Avoid repeating the formal purpose statement (covered in [Purpose](#purpose)).\]*
 
 *\[**Example:** This document captures the structured definition of the business problem and its surrounding context as part of the Business Understanding phase.*
 
