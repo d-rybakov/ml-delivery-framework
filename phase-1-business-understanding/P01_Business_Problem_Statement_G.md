@@ -6,14 +6,14 @@ Document Name: **Business Problem Statement**
 
 | Field | Value |
 |------|------|
-| Project Name | *\[e.g. Customer Churn Prediction\]* |
-| Project Code | *\[e.g. CCP-2025-01\]* |
+| Project Name | *[e.g. Customer Churn Prediction]* |
+| Project Code | *[e.g. CCP-2025-01]* |
 | CRISP-DM Phase | P01 - Business Understanding |
 | Artifact Level | G - Governance Artifact |
-| Document Owner (Role) | *\[Project Manager \| Delivery Lead\]* |
-| Version | *\[0.0.1\]* |
-| Last Updated | *\[DD Month YYYY\]* |
-| Document Status | *\[Draft\|In Review\|Approved\]* |
+| Document Owner (Role) | *[Project Manager | Delivery Lead]* |
+| Version | *[0.0.1]* |
+| Last Updated | *[DD Month YYYY]* |
+| Document Status | *[Draft | In Review | Approved]* |
 
 ---
 
