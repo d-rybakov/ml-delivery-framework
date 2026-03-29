@@ -49,7 +49,7 @@ This ensures that all downstream ML work is:
 
 These documents define project direction and require formal approval.
 
-- **P01_Business_Problem_Statement_G**  
+- [**P01_Business_Problem_Statement_G**](./P01_Business_Problem_Statement_G.md)  
   Defines the business problem, objectives, and expected value.
 
 - **P01_Stakeholder_Analysis_G**  
@@ -58,13 +58,13 @@ These documents define project direction and require formal approval.
 - **P01_Risk_Assessment_G**  
   Documents risks, assumptions, and constraints.
 
-- **P01_Situation_Assessment_Report_G**  
+- [**P01_Situation_Assessment_Report_G**](./P01_Situation_Assessment_Report_G.md)  
   Evaluates organizational readiness, resources, and feasibility.
 
 - [**P01_Data_Mining_Goals_Success_Criteria_G**](./P01_Data_Mining_Goals_and_Success_Criteria_G.md)  
   Translates business goals into measurable analytical targets.
 
-- **P01_Project_Plan_G**  
+- [**P01_Project_Plan_G**](./P01_Project_Plan_G.md)  
   Defines scope, timeline, resources, and execution approach.
 
 - **P01_Phase_Gate_Framework_G**  
