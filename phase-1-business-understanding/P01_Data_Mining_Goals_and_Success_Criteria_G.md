@@ -11,10 +11,10 @@ Document Name: **Data Mining Goals and Success Criteria**
 | Project Code | *[e.g. CCP-2025-01]* |
 | CRISP-DM Phase | P01 - Business Understanding |
 | Artifact Level | G - Governance Artifact |
-| Document Owner (Role) | *[Business Analyst / Product Owner]* |
+| Document Owner (Role) | *[Business Analyst \| Product Owner]* |
 | Version | *[0.0.1]* |
 | Last Updated | *[DD Month YYYY]* |
-| Document Status | *[Draft / In Review / Approved]* |  
+| Document Status | *[Draft \| In Review \| Approved]* |  
 
 ---
 
