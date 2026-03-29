@@ -224,13 +224,13 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: John Doe\]*
 
-1. ### Stakeholders {#stakeholders}
+### Stakeholders
 
 *\[Provide a high-level view of key stakeholders relevant for project execution, communication, and alignment.\]*
 
 *\[List only stakeholders directly impacting execution, decision-making, or adoption of project results.*
 
-*Do NOT duplicate detailed stakeholder analysis \- it is maintained in [P01\_Stakeholder\_Analysis\_G](https://cutt.ly/P01-SA-G).*
+*Do NOT duplicate detailed stakeholder analysis \- it is maintained in [P01\_Stakeholder\_Analysis\_G](./P01_Stakeholder_Analysis_G.md).*
 
 *Focus on stakeholder expectations relevant for delivery and outcomes.\]*
 
@@ -244,7 +244,7 @@ This Project Plan becomes effective upon final approval by the designated author
 |  |  |  |
 |  |  |  |
 
-2. ### Project Team {#project-team}
+### Project Team
 
 *\[Define the core project team responsible for executing project activities and producing deliverables.\]*
 
@@ -264,7 +264,7 @@ This Project Plan becomes effective upon final approval by the designated author
 |  |  |  |  |
 |  |  |  |  |
 
-3. ### Change Management Committee {#change-management-committee}
+### Change Management Committee
 
 *\[Define the body responsible for reviewing and coordinating significant project changes during execution.\]*
 
@@ -282,7 +282,7 @@ This Project Plan becomes effective upon final approval by the designated author
 |  |  |  |
 |  |  |  |
 
-3. ## Communication Plan {#communication-plan}
+## Communication Plan
 
 *\[Define structured communication flows required to support coordinated project execution, stakeholder alignment, and informed decision-making.\]*
 
@@ -296,7 +296,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: In the Customer Churn Prediction project, structured communication ensures alignment between business stakeholders and delivery teams, provides visibility into model development progress, and supports timely decision-making on risks and priorities.\]*
 
-1. ### Communication Objectives {#communication-objectives}
+### Communication Objectives
 
 *\[Define the specific purposes that communication must serve to enable effective project execution.\]*
 
@@ -316,7 +316,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: Communication in the Customer Churn Prediction project is used to ensure alignment on priorities, provide visibility into progress and risks, support timely decisions, and enable structured feedback from business stakeholders.\]*
 
-2. ### Communication Matrix {#communication-matrix}
+### Communication Matrix
 
 *\[Define structured communication events required to support coordination, monitoring, and decision-making during project execution.\]*
 
@@ -336,7 +336,7 @@ This Project Plan becomes effective upon final approval by the designated author
 | *\[Technical Sync\]* | *\[IT / Engineering\]* | *\[Deployment alignment\]* | *\[As needed\]* | *\[Workshop / Call\]* | *\[Technical Lead\]* |
 | *\[Steering Committee\]* | *\[Sponsor \+ Committee\]* | *\[Strategic decisions\]* | *\[On demand\]* | *\[Formal meeting\]* | *\[Project Manager\]* |
 
-3. ### Communication Channels and Tools {#communication-channels-and-tools}
+### Communication Channels and Tools
 
 *\[Define the tools and platforms used to support structured communication and information exchange during project execution.\]*
 
@@ -355,7 +355,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: In the Customer Churn Prediction project, Jira is used for task tracking and coordination, Confluence for documentation, dashboards for progress visibility, and video conferencing tools for regular sync meetings.\]*
 
-4. ### Feedback and Escalation {#feedback-and-escalation}
+### Feedback and Escalation
 
 *\[Define structured mechanisms for collecting feedback and escalating issues to ensure timely resolution and controlled project execution.\]*
 
@@ -367,7 +367,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: In the Customer Churn Prediction project, feedback is collected during sprint reviews and stakeholder sessions, while critical issues are escalated through the Project Manager to the Sponsor or Change Management Committee depending on impact.\]*
 
-5. ### Communication Evaluation {#communication-evaluation}
+### Communication Evaluation
 
 *\[Define how communication effectiveness is assessed to ensure it supports project execution and stakeholder alignment.\]*
 
@@ -386,7 +386,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: In the Customer Churn Prediction project, communication effectiveness is assessed through timely reporting, responsiveness to escalations, and alignment of stakeholder expectations at phase completion.\]*
 
-4. ## Objective/Expected Results {#objective/expected-results}
+## Objective/Expected Results
 
 *\[Define the business-oriented objectives and expected outcomes of the project in a form that supports execution planning and alignment.\]*
 
@@ -394,19 +394,19 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *This section must NOT redefine or duplicate formal definitions from governance artifacts.*
 
-*Business objectives are defined in [P01\_Business\_Problem\_Statement\_G](https://cutt.ly/P01-BPS-G).*
+*Business objectives are defined in [P01\_Business\_Problem\_Statement\_G](./P01_Business_Problem_Statement_G.md).*
 
-*Analytical goals and success criteria are defined in [P01\_Data\_Mining\_Goals\_and\_Success\_Criteria\_G](https://cutt.ly/qtPgk70A).*
+*Analytical goals and success criteria are defined in [P01\_Data\_Mining\_Goals\_and\_Success\_Criteria\_G](./P01_Data_Mining_Goals_and_Success_Criteria_G.md).*
 
 *This section provides an execution-oriented interpretation to align delivery with expected outcomes.\]*
 
 *\[**Example**: The Customer Churn Prediction project aims to reduce customer churn by enabling proactive retention strategies supported by predictive analytics and integration into business processes.\]*
 
-1. ### Business Objective {#business-objective}
+### Business Objective
 
 *\[Provide a concise execution-aligned statement of the business objective the project supports.\]*
 
-*\[Summarize the business objective defined in [P01\_Business\_Problem\_Statement\_G](https://cutt.ly/P01-BPS-G).*
+*\[Summarize the business objective defined in [P01\_Business\_Problem\_Statement\_G](./P01_Business_Problem_Statement_G.md).*
 
 *Do NOT redefine or expand it.*
 
@@ -416,7 +416,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: Reduce customer churn rate in the retail segment by enabling data-driven retention strategies.\]*
 
-2. ### Expected Results {#expected-results}
+### Expected Results
 
 *\[Define concrete outcomes that must be delivered to achieve the business objective.\]*
 
@@ -430,7 +430,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: Deployment of a predictive churn model integrated into CRM workflows, enabling targeted retention campaigns and automated decision support.\]*
 
-3. ### Success Indicators {#success-indicators}
+### Success Indicators
 
 *\[Define high-level indicators used to evaluate whether project outcomes meet business expectations.\]*
 
@@ -438,11 +438,11 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *Do NOT include phase validation criteria or detailed model performance metrics.*
 
-*Reference analytical success criteria in [P01\_Data\_Mining\_Goals\_and\_Success\_Criteria\_G](https://cutt.ly/qtPgk70A) where needed.\]*
+*Reference analytical success criteria in [P01\_Data\_Mining\_Goals\_and\_Success\_Criteria\_G](./P01_Data_Mining_Goals_and_Success_Criteria_G.md) where needed.\]*
 
 *\[**Example**: Reduction in customer churn rate, adoption of the predictive solution by business teams, and measurable improvement in targeting effectiveness.\]*
 
-5. ## Project Scope {#project-scope}
+## Project Scope
 
 *\[Define the execution boundaries of the project to ensure controlled delivery and prevent uncontrolled scope expansion.\]*
 
@@ -456,7 +456,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: The Customer Churn Prediction project includes development and deployment of a predictive model and its integration into business workflows, while excluding unrelated analytics initiatives and non-priority customer segments.\]*
 
-1. ### Project Prerequisites {#project-prerequisites}
+### Project Prerequisites
 
 *\[Define the execution starting conditions of the project based on approved business and analytical foundations.\]*
 
@@ -468,13 +468,13 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *This subsection must establish a clear transition from Business Understanding to execution planning.\]*
 
-*\[**Example**: The Customer Churn Prediction project is initiated based on the approved Business Problem Statement (see [P01\_Business\_Problem\_Statement\_G](https://cutt.ly/P01-BPS-G)), which identifies increasing churn in the retail segment.*
+*\[**Example**: The Customer Churn Prediction project is initiated based on the approved Business Problem Statement (see [P01\_Business\_Problem\_Statement\_G](./P01_Business_Problem_Statement_G.md)), which identifies increasing churn in the retail segment.*
 
 *The current retention process is reactive and lacks predictive capabilities.*
 
 *The project is authorized to develop and deploy a predictive solution, with initial constraints including data availability and integration with existing CRM systems.\]*
 
-2. ### Scope Definition {#scope-definition}
+### Scope Definition
 
 *\[Define the formal execution scope baseline that establishes clear project boundaries and supports controlled delivery.\]*
 
@@ -482,7 +482,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *This section must serve as the baseline for scope control and change management.*
 
-*Scope definition must be aligned with Business Objective (3.4) and execution planning, without duplicating governance artifacts.*
+*Scope definition must be aligned with [Business Objective](#objective/expected-results) and execution planning, without duplicating governance artifacts.*
 
 *Ensure that all elements are verifiable and actionable from an execution perspective.\]*
 
