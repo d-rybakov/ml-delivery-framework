@@ -488,7 +488,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: The Customer Churn Prediction project scope includes development and deployment of a predictive model within defined systems, explicitly excludes unrelated analytics initiatives, and is based on assumptions regarding data availability and system integration.\]*
 
-1. #### *Scope Inclusions* {#scope-inclusions}
+#### *Scope Inclusions*
 
 *\[Define the set of activities, deliverables, and outcomes included within the project execution scope.\]*
 
@@ -509,7 +509,7 @@ This Project Plan becomes effective upon final approval by the designated author
 * *Delivery of technical and user documentation*  
 * *Training session for marketing team\]*
 
-  2. #### *Explicit Scope Exclusions* {#explicit-scope-exclusions}
+#### *Explicit Scope Exclusions*
 
 *\[Define elements explicitly excluded from the project scope to prevent ambiguity and uncontrolled scope expansion.\]*
 
@@ -525,7 +525,7 @@ This Project Plan becomes effective upon final approval by the designated author
 * *Implementation of enterprise-wide AI governance framework*  
 * *Development of cross-sell or upsell predictive models\]*
 
-  3. #### *Scope Assumptions* {#scope-assumptions}
+#### *Scope Assumptions*
 
 *\[Define key assumptions that impact project scope feasibility and execution conditions.\]*
 
@@ -541,7 +541,7 @@ This Project Plan becomes effective upon final approval by the designated author
 * *CRM system allows integration of risk scoring fields*  
 * *Marketing team is available for validation workshops\]*
 
-  3. ### Schedule Restrictions {#schedule-restrictions}
+### Schedule Restrictions
 
 *\[Define time-related constraints that impact project execution and limit scheduling flexibility.\]*
 
@@ -560,7 +560,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: The Customer Churn Prediction project must align with the planned marketing campaign launch and fiscal planning cycle, limiting flexibility in deployment timing.\]*
 
-4. ### Relationships {#relationships}
+### Relationships
 
 *\[Identify external dependencies and relationships that impact project execution and delivery coordination.\]*
 
@@ -578,7 +578,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: The Customer Churn Prediction project depends on the Data Warehouse upgrade for access to consolidated customer data and must be coordinated with the CRM system release cycle for successful deployment.\]*
 
-5. ### Project / Phase Finalization Criteria {#project-/-phase-finalization-criteria}
+### Project / Phase Finalization Criteria
 
 *\[Define formal criteria required to complete CRISP-DM phases and the overall project, ensuring controlled progression and closure.\]*
 
@@ -588,11 +588,11 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *Analytical validation results must be interpreted in alignment with defined success criteria and Phase Gate controls.*
 
-*Avoid defining validation metrics in this section \- they are specified in [P01\_Data\_Mining\_Goals\_and\_Success\_Criteria\_G](https://cutt.ly/qtPgk70A) and governed through the Phase Gate Framework.\]*
+*Avoid defining validation metrics in this section \- they are specified in [P01\_Data\_Mining\_Goals\_and\_Success\_Criteria\_G](./P01_Data_Mining_Goals_and_Success_Criteria_G.md) and governed through the Phase Gate Framework.\]*
 
 *\[**Example**: In the Customer Churn Prediction project, phase completion requires delivery of all planned artifacts, validation of analytical results against defined criteria, and formal approval before proceeding.\]*
 
-1. #### *Phase Finalization Criteria* {#phase-finalization-criteria}
+#### *Phase Finalization Criteria*
 
 *\[Define conditions under which a CRISP-DM phase is considered complete.\]*
 
@@ -602,13 +602,13 @@ This Project Plan becomes effective upon final approval by the designated author
 * *Deliverables are reviewed and accepted by responsible stakeholders*
 
 *Analytical results meet defined success criteria*   
-*(see [P01\_Data\_Mining\_Goals\_and\_Success\_Criteria\_G](https://cutt.ly/qtPgk70A))*
+*(see [P01\_Data\_Mining\_Goals\_and\_Success\_Criteria\_G](./P01_Data_Mining_Goals_and_Success_Criteria_G.md))*
 
-*Phase completion is confirmed through Phase Gate evaluation (see [P01\_Phase\_Gate\_Framework\_G](https://cutt.ly/6tPgVf5f))\]*
+*Phase completion is confirmed through Phase Gate evaluation (see [P01\_Phase\_Gate\_Framework\_G](./P01_Phase_Gate_Framework_G.md))\]*
 
 *\[**Example**: The Modeling phase is completed when trained models, evaluation reports, and documentation are delivered, model performance meets defined thresholds, and phase transition is approved.\]*
 
-2. #### *Project Finalization Criteria* {#project-finalization-criteria}
+#### *Project Finalization Criteria*
 
 *\[Define conditions under which the entire project is considered formally completed.\]*
 
@@ -624,7 +624,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: The Customer Churn Prediction project is completed when the predictive model is deployed into production, accepted by the Sponsor, all documentation is delivered, knowledge transfer is completed, and formal project closure is approved.\]*
 
-4. # Project Governance and Execution Control {#project-governance-and-execution-control}
+# Project Governance and Execution Control
 
 *\[Define the project execution framework, governance mechanisms, and control procedures ensuring structured delivery, transparency, and quality throughout the project lifecycle.\]*  
 *\[Describe how the project is governed and controlled during execution.*
@@ -643,7 +643,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: In the Customer Churn Prediction project, potential data quality problems are tracked as risks, access failures are managed as issues, and any required expansion of analytical scope is handled through formal change requests.\]*
 
-1. ## Development Process {#development-process}
+## Development Process
 
 *\[Define the integrated project execution model combining the analytical lifecycle (CRISP-DM) with governance and control mechanisms.\]*
 
@@ -658,7 +658,7 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *\[**Example**: The Customer Churn Prediction project follows CRISP-DM phases executed iteratively, while governance controls ensure that each phase is validated and formally approved before proceeding.\]*
 
-1. ### Change Management {#change-management}
+### Change Management
 
 *\[Define the process for controlled modification of approved project baseline elements.\]*
 
