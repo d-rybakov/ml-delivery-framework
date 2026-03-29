@@ -133,10 +133,10 @@ Working version: [Google Docs template](https://cutt.ly/P01-BPS-G)
 
 | # | Document | Explanation |
 |-----|:----|:----|
-| 1. | *\[P01_Stakeholder_Analysis_G\]* | *\[Identifies key stakeholders, their roles, and engagement strategies.\]* |
-| 2. | *\[P01_Risk_Assessment_G\]* | *\[Documents project risks, their impact, and mitigation plans.\]* |
-| 3. | *\[P01_Project_Plan_G\]* | *\[Defines the execution approach, timeline, and resource allocation.\]* |
-| 4. | *\[CRISP-DM Methodology\]* | *\[Provides the overall framework guiding the project lifecycle.\]* |
+| 1. | *\[[P01_Stakeholder_Analysis_G](./P01_Stakeholder_Analysis_G.md)\]* | *\[Identifies key stakeholders, their roles, and engagement strategies.\]* |
+| 2. | *\[[P01_Risk_Assessment_G](./P01_Risk_Assessment_G.md)\]* | *\[Documents project risks, their impact, and mitigation plans.\]* |
+| 3. | *\[[P01_Project_Plan_G](./P01_Project_Plan_G.md)\]* | *\[Defines the execution approach, timeline, and resource allocation.\]* |
+| 4. | *\[[CRISP-DM Methodology](https://web.archive.org/web/20220401041957/https://www.the-modeling-agency.com/crisp-dm.pdf)\]* | *\[Provides the overall framework guiding the project lifecycle.\]* |
 | 5. |  |  |
 | 6 |  |  |
 | 7. |  |  |
