@@ -170,11 +170,11 @@ This Project Plan becomes effective upon final approval by the designated author
 
 *This section must remain concise and declarative (no justification text).\]*
 
-Project Category: *\[Customer Initiative / Internal Optimization / Regulatory / Product Development / Research / Infrastructure\] \[**Example:** Customer Initiative\]*
+**Project Category:** *\[Customer Initiative / Internal Optimization / Regulatory / Product Development / Research / Infrastructure\] \[**Example:** Customer Initiative\]*
 
-Project Priority: \[*High\\Middle\\Low\] \[**Example:** High\]*
+**Project Priority:** \[*High\\Middle\\Low\] \[**Example:** High\]*
 
-Business Impact Level: *\[Strategic / Tactical / Operational\] \[**Example:** Strategic\]*
+**Business Impact Level:** *\[Strategic / Tactical / Operational\] \[**Example:** Strategic\]*
 
 ## Project Organization
 
