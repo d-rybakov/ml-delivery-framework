@@ -34,7 +34,7 @@ This ensures that subsequent data preparation and modeling activities are based 
 |--------------|-------------|
 | 2.1 Collect Initial Data | [P02_Data_Inventory_Report_T](./P02_Data_Inventory_Report_T.md) |
 | 2.2 Describe Data | [P02_Data_Dictionary_Report_T](./P02_Data_Dictionary_Report_T.md) |
-| 2.3 Explore Data | P02_Exploratory_Data_Analysis_Report_T |
+| 2.3 Explore Data | [P02_Exploratory_Data_Analysis_Report_T](./P02_Exploratory_Data_Analysis_Report_T.md) |
 | 2.4 Verify Data Quality | P02_Data_Quality_Report_T |
 
 ---
@@ -51,7 +51,7 @@ These documents provide structured understanding of data and support reproducibi
 - [**P02_Data_Dictionary_Report_T**](./P02_Data_Dictionary_Report_T.md)  
   Defines structure, attributes, and semantics of the data.
 
-- **P02_Exploratory_Data_Analysis_Report_T**  
+- [**P02_Exploratory_Data_Analysis_Report_T**](./P02_Exploratory_Data_Analysis_Report_T.md)  
   Summarizes key patterns, distributions, and initial insights.
 
 - **P02_Data_Quality_Report_T**  
