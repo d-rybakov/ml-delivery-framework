@@ -17,7 +17,7 @@ Document Name: **Business Problem Statement**
 
 ---
 
-Working version: [Google Docs template](https://cutt.ly/P01-BPS-G)
+Working version: [Google Doc template](https://cutt.ly/P01-BPS-G)
 
 ---
 ## Revision History
