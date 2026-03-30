@@ -100,7 +100,7 @@ This document supports technical transparency, reproducibility, and alignment wi
 
 ---
 
-# Data Collection Baseline {#data-collection-baseline}
+# Data Collection Baseline
 
 *\[This section formally registers all datasets collected during CRISP-DM Phase P02 \- Data Understanding as part of Task 2.1 Collect Initial Data.*
 
@@ -112,7 +112,7 @@ This document supports technical transparency, reproducibility, and alignment wi
 
 *\[**Example**: In the Customer Churn Prediction project, this section documents the collection of CRM customer records, transaction history tables from the Data Warehouse, customer support interaction logs, mobile app activity logs, and historical churn labels extracted from BI systems. Each dataset is registered with its owner, storage location, format, update frequency, and snapshot date to establish the initial analytical data baseline.\]*
 
-## Data Source Register {#data-source-register}
+## Data Source Register
 
 *\[This section provides a formal register of all raw datasets acquired during Task 2.1 Collect Initial Data.*
 
@@ -170,7 +170,7 @@ This document supports technical transparency, reproducibility, and alignment wi
 | **Estimated Volume (Advanced)** | *\[\~1.2M records\]* | *\[\~45M records\]* | *\[\~120M log events\]* | *\[\~250K records\]* |
 | **Sensitivity Level (Advanced)** | *\[Confidential \- PII\]* | *\[Confidential \- Financial\]* | *\[Internal \- Behavioral Data\]* | *\[Internal \- Analytical Label\]* |
 
-## Data Acquisition Issues & Resolutions {#data-acquisition-issues-&-resolutions}
+## Data Acquisition Issues & Resolutions
 
 *\[This section documents any issues encountered during Task 2.1 Collect Initial Data and the actions taken to resolve them.*
 
