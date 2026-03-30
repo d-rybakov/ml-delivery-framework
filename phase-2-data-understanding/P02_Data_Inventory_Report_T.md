@@ -50,7 +50,7 @@ This document supports technical transparency, reproducibility, and alignment wi
 
 *\[**Example:** This document is intended for the Data Science team performing exploratory analysis, the Data Engineering team preparing data pipelines, and the Delivery Lead overseeing scope alignment.\]*
 
-## Definitions, Acronyms, and Abbreviations {#definitions-acronyms-and-abbreviations}
+## Definitions, Acronyms, and Abbreviations
 
 *\[Provide definitions for all project-specific terms, dataset abbreviations, system names, and technical identifiers required to correctly interpret the document.*
 
@@ -90,7 +90,7 @@ This document supports technical transparency, reproducibility, and alignment wi
 
 | # | Document | Explanation |
 |-----|:----|:----|
-| 1. | *\[[P01_Project_Plan_G](./P01_Project_Plan_G.md)\]* | *\[Defines business objectives and analytical scope for churn prediction.\]* |
+| 1. | *\[[P01_Project_Plan_G](../phase-1-business-understanding/P01_Project_Plan_G.md)\]* | *\[Defines business objectives and analytical scope for churn prediction.\]* |
 | 2. | *\[Enterprise Data Catalog\]* | *\[Source metadata repository for CRM tables.\]* |
 | 3. |  |  |
 | 4. |  |  |
