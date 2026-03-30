@@ -178,7 +178,8 @@ This document supports technical transparency, reproducibility, and alignment wi
 
 *The purpose of this section is to support transparency, traceability, and reproducibility of the data acquisition process. Recording issues and their resolutions ensures that future replication of this project — or similar projects — can anticipate and mitigate recurring challenges.*
 
-*Only acquisition-related issues should be documented here. Data quality observations, profiling findings, or analytical insights must be documented in the Data Dictionary Report (Task 2.2).\]*
+*Only acquisition-related issues should be documented here. Data quality observations, profiling findings, or analytical insights must be documented in the [Data Dictionary Report](./P02_Data_Dictionary_Report_T.md
+) (Task 2.2).\]*
 
 *\[**Example:** During the Customer Churn Prediction project, several acquisition challenges were encountered, including restricted access to CRM tables due to role-based permissions, incomplete transaction exports caused by query timeouts, and inconsistencies in timestamp formats across mobile application logs. Each issue was documented along with the corrective action taken, such as obtaining extended database permissions, optimizing extraction queries, and standardizing timestamp formats during ingestion.\]*
 
