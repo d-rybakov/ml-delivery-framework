@@ -25,7 +25,7 @@ Key principles:
 - The lifecycle remains iterative and adaptable to project complexity
 
 ## Quick Start
-[CRISP-DM Delivery Reference](https://rebrand.ly/crisp-delivery) - 
+[CRISP-DM Delivery Reference](https://tinyurl.com/crisp-delivery) - 
 interactive navigator with links to all templates.
 Available in Google Slides preview mode.
 
