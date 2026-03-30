@@ -32,7 +32,7 @@ This ensures that subsequent data preparation and modeling activities are based 
 
 | CRISP-DM Task | Deliverables |
 |--------------|-------------|
-| 2.1 Collect Initial Data | P02_Data_Inventory_Report_T |
+| 2.1 Collect Initial Data | [P02_Data_Inventory_Report_T](./P02_Data_Inventory_Report_T.md) |
 | 2.2 Describe Data | P02_Data_Dictionary_Report_T |
 | 2.3 Explore Data | P02_Exploratory_Data_Analysis_Report_T |
 | 2.4 Verify Data Quality | P02_Data_Quality_Report_T |
@@ -45,7 +45,7 @@ This ensures that subsequent data preparation and modeling activities are based 
 
 These documents provide structured understanding of data and support reproducibility.
 
-- **P02_Data_Inventory_Report_T**  
+- [**P02_Data_Inventory_Report_T**](./P02_Data_Inventory_Report_T.md)  
   Lists and describes available data sources and their origin.
 
 - **P02_Data_Dictionary_Report_T**  
