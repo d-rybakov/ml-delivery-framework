@@ -133,7 +133,7 @@ Working version: [Google Doc template](https://cutt.ly/dtPhXLKy)
 
 ## 3.2 Table-Level Structure {#table-level-structure}
 
-*\[This subsection documents the structural schema characteristics of tables or files contained within each dataset identified in [Section 3.1 Dataset Structural Overview](#dataset-structural-overview)*
+*\[This subsection documents the structural schema characteristics of tables or files contained within each dataset identified in [Section 3.1 Dataset Structural Overview](#31-dataset-structural-overview)*
 
 *The purpose of this section is to describe how data is organized at the table or file level, including row counts, column counts, and structural key relationships where explicitly defined in the schema.*
 
