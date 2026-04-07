@@ -131,7 +131,7 @@ Working version: [Google Doc template](https://cutt.ly/dtPhXLKy)
 | **Snapshot Date** | *\[2025-02-01\]* | *\[2025-02-01\]* | *\[2025-02-01\]* | *\[2025-02-01\]* | *\[2025-02-01\]* |
 | **Contains PII** | *\[Y\]* | *\[Y\]* | *\[N\]* | *\[Y\]* | *\[N\]* |
 
-## 3.2 Table-Level Structure {#table-level-structure}
+## 3.2 Table-Level Structure
 
 *\[This subsection documents the structural schema characteristics of tables or files contained within each dataset identified in [Section 3.1 Dataset Structural Overview](#31-dataset-structural-overview)*
 
@@ -178,9 +178,9 @@ Working version: [Google Doc template](https://cutt.ly/dtPhXLKy)
 | **Encoding / Format** | *\[Not Applicable\]* | *\[Not Applicable\]* | *\[JSON (Nested, UTF-8)\]* | *\[CSV (UTF-8)\]* | *\[Excel (XLSX)\]* |
 | **Snapshot Date** | *\[2025-02-01\]* | *\[2025-02-01\]* | *\[2025-02-01\]* | *\[2025-02-01\]* | *\[2025-02-01\]* |
 
-## 3.3 Field-Level Data Dictionary {#field-level-data-dictionary}
+## 3.3 Field-Level Data Dictionary
 
-*\[This subsection provides a detailed description of individual data fields contained within the tables or files identified in Section 3.2.*
+*\[This subsection provides a detailed description of individual data fields contained within the tables or files identified in [Section 3.2 Table-Level Structure](#32-table-level-structure)*
 
 *The purpose of this section is to document field-level metadata necessary to understand the structure and meaning of the data prior to data preparation and modeling activities.*
 
@@ -225,7 +225,7 @@ Working version: [Google Doc template](https://cutt.ly/dtPhXLKy)
 | **Dataset Name:** *\[Churn Labels\]* |  |  |  |  |  |  |  |  |
 | *\[Churn\_Labels\]* | *\[Churn\_Status\]* | *\[Boolean\]* | *\[Whether the customer churned\]* | *\[N\]* | *\[0, 1\]* | *\[Binary\]* | *\[Confidential\]* | *\[Target variable\]* |
 
-## 3.4 Initial Data Observations {#initial-data-observations}
+## 3.4 Initial Data Observations
 
 *\[Document notable observations identified during the initial inspection of the acquired datasets.*
 
@@ -261,7 +261,7 @@ Working version: [Google Doc template](https://cutt.ly/dtPhXLKy)
 | ***\[OBS-04\]*** | *\[Complaint\_Count\]* | *\[Outliers\]* | *\[Extremely high values detected (\>100 complaints)\]* | *\[Data entry issue or aggregation artifact\]* | *\[Verify aggregation logic\]* |
 | ***\[OBS-05\]*** | *\[Churn\_Status\]* | *\[Target Balance\]* | *\[Target variable moderately imbalanced (\~20%)\]* | *\[May require class balancing techniques\]* | *\[Assess during Modeling\]* |
 
-## 3.5 Data Requirement Alignment Assessment {#data-requirement-alignment-assessment}
+## 3.5 Data Requirement Alignment Assessment
 
 *\[Assess whether the datasets and fields described in this document are sufficient to support the business and analytical objectives defined during the Business Understanding and Data Understanding phases.*
 
