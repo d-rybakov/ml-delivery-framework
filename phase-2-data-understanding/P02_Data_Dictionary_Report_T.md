@@ -96,7 +96,7 @@ Working version: [Google Doc template](https://cutt.ly/dtPhXLKy)
 
 *The objective is to confirm that the available datasets contain sufficient customer identifiers, historical behavior metrics, and churn labels required to support subsequent data preparation and modeling activities.\]*
 
-## 3.1 Dataset Structural Overview {#dataset-structural-overview}
+## 3.1 Dataset Structural Overview
 
 *\[This subsection provides a high-level structural summary of each dataset acquired and examined under CRISP-DM Task 2.2 Describe Data.*
 
