@@ -21,25 +21,25 @@ Document Name: **Data Dictionary Report**
 Working version: [Google Doc template](https://cutt.ly/dtPhXLKy)
 
 ---
-# 1 Introduction {#introduction}
+# 1 Introduction
 
 *\[This section introduces the Data Dictionary Report and explains its role within CRISP-DM Task 2.2 Describe Data. The purpose is to document the structural and surface-level characteristics of the acquired datasets. This document must describe data format, volume, structure, field identities, and initial observations, and evaluate whether the acquired data satisfies the project’s business requirements. This section should remain high-level and non-technical.\]*
 
 *\[**Example**: This document describes the structure and content of the datasets acquired for the Customer Churn Prediction project. It includes table-level and field-level metadata, data formats, record counts, and initial surface observations. The objective is to assess whether the available data sufficiently supports churn modeling objectives.\]*
 
-## 1.1 Purpose {#purpose}
+## 1.1 Purpose
 
 *\[Provide a concise statement explaining why this document exists. The purpose should clearly state that this report documents structural and descriptive metadata of acquired datasets and evaluates their suitability for subsequent data preparation and modeling tasks. Avoid operational or transformation details.\]*
 
 *\[**Example**: The purpose of this document is to provide a structured description of all datasets acquired for churn modeling, including their format, size, structure, and key attributes. It also evaluates whether the data meets the analytical requirements defined in the Business Understanding phase.\]*
 
-## 1.2 Audience {#audience}
+## 1.2 Audience
 
 *\[Identify the intended readers of this document. This typically includes Data Scientists, Data Engineers, Data Analysts, Data Stewards, and relevant technical stakeholders. Avoid listing individual names; refer to roles.\]*
 
 *\[**Example:** This document is intended for Data Scientists, Data Engineers, and Analytics stakeholders involved in the churn modeling initiative, as well as Data Governance roles responsible for metadata validation.\]*
 
-## 1.3 Definitions, Acronyms, and Abbreviations {#definitions,-acronyms,-and-abbreviations}
+## 1.3 Definitions, Acronyms, and Abbreviations
 
 *\[Provide definitions for all project-specific terms, dataset abbreviations, system names, and technical identifiers required to correctly interpret the document.*
 
@@ -57,13 +57,13 @@ Working version: [Google Doc template](https://cutt.ly/dtPhXLKy)
 | 6 |  |  |
 | 7\. |  |  |
 
-## 1.4 Document Overview {#document-overview}
+## 1.4 Document Overview
 
 *\[Explain how the document is structured and how the sections relate to CRISP-DM Task 2.2 Describe Data. Provide a short description of each major section to guide readers.\]*
 
 *\[**Example**: Section 3 provides a structured description of each dataset, including table-level metadata and detailed field-level definitions. The final section evaluates whether the acquired data sufficiently supports churn prediction objectives.\]*
 
-# 2 References {#references}
+# 2 References
 
 *\[List all documents referenced within this report. These typically include the Project Plan, Business Requirements, Data Inventory Report (Task 2.1), and any governance or glossary documents. Provide document identifiers and version references where applicable.*  
 *Avoid listing unrelated materials.\]*
@@ -78,7 +78,7 @@ Working version: [Google Doc template](https://cutt.ly/dtPhXLKy)
 | 6 |  |  |
 | 7\. |  |  |
 
-# 3 Data Description Baseline {#data-description-baseline}
+# 3 Data Description Baseline
 
 *\[This section establishes the structural and descriptive baseline of all datasets acquired during CRISP-DM Task 2.1 and examined under Task 2.2 Describe Data.*
 
@@ -133,7 +133,7 @@ Working version: [Google Doc template](https://cutt.ly/dtPhXLKy)
 
 ## 3.2 Table-Level Structure {#table-level-structure}
 
-*\[This subsection documents the structural schema characteristics of tables or files contained within each dataset identified in Section 3.1.*
+*\[This subsection documents the structural schema characteristics of tables or files contained within each dataset identified in [Section 3.1 Dataset Structural Overview](#dataset-structural-overview)*
 
 *The purpose of this section is to describe how data is organized at the table or file level, including row counts, column counts, and structural key relationships where explicitly defined in the schema.*
 
