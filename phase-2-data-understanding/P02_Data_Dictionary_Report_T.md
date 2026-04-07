@@ -71,10 +71,11 @@ Working version: [Google Doc template](https://cutt.ly/dtPhXLKy)
 | \# | Document | Explanation |
 | ----- | :---- | :---- |
 | 1\. | *\[[P01_Project_Plan_G](../phase-1-business-understanding/P01_Project_Plan_G.md)\]* | *\[Defines business objectives and analytical scope for churn prediction.\]* |
-| 2\. | *\[[P02\_Data\_Inventory\_Report\_T](./P02_Data_Inventory_Report.md)]* | *\[.\]* |
+| 2\. | *\[[P02\_Data\_Inventory\_Report\_T](./P02_Data_Inventory_Report.md)\]* | *\[.\]* |
 | 3\. |  |  |
 | 4\. |  |  |
 | 5\. |  |  |
 | 6 |  |  |
 | 7\. |  |  |
+
 
