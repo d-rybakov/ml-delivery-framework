@@ -25,13 +25,11 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 # 1 Introduction {#introduction}
 
 *\[Provide a brief explanation of the purpose of the Exploratory Data Analysis (EDA) Report.*  
-*Describe how exploratory analysis supports understanding of dataset characteristics, identification of patterns, trends, anomalies, and early analytical insights relevant*  
-*to the project objectives.*  
+*Describe how exploratory analysis supports understanding of dataset characteristics, identification of patterns, trends, anomalies, and early analytical insights relevant to the project objectives.*  
 *The introduction should clarify the role of this document within the CRISP-DM Data Understanding phase and how the findings inform subsequent stages of data preparation and modeling.\]*
 
 *\[**Example**: This document presents the results of exploratory data analysis performed on datasets collected for the Customer Churn Prediction project.*  
-*The analysis aims to better understand the structure and behavior of the available data, identify meaningful patterns, detect anomalies, and*  
-*generate initial analytical insights relevant to customer churn.*  
+*The analysis aims to better understand the structure and behavior of the available data, identify meaningful patterns, detect anomalies, and generate initial analytical insights relevant to customer churn.*  
 *The findings documented in this report support subsequent phases of the CRISP-DM process, particularly Data Preparation and Modeling.\]*
 
 ## 1.1 Purpose {#purpose}
