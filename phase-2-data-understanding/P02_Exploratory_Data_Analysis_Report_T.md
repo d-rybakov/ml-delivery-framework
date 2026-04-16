@@ -22,7 +22,7 @@ Document Name: **Exploratory Data Analysis Report**
 Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 ---
-# 1 Introduction {#introduction}
+# 1 Introduction
 
 *\[Provide a brief explanation of the purpose of the Exploratory Data Analysis (EDA) Report.*  
 *Describe how exploratory analysis supports understanding of dataset characteristics, identification of patterns, trends, anomalies, and early analytical insights relevant to the project objectives.*  
@@ -32,7 +32,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 *The analysis aims to better understand the structure and behavior of the available data, identify meaningful patterns, detect anomalies, and generate initial analytical insights relevant to customer churn.*  
 *The findings documented in this report support subsequent phases of the CRISP-DM process, particularly Data Preparation and Modeling.\]*
 
-## 1.1 Purpose {#purpose}
+## 1.1 Purpose
 
 *\[Describe the purpose of the Exploratory Data Analysis (EDA) Report.*
 
@@ -44,7 +44,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 *The analysis focuses on identifying behavioral patterns and early signals associated with customer churn, which may guide subsequent feature engineering and modeling activities.\]*
 
-## 1.2 Audience {#audience}
+## 1.2 Audience
 
 *\[List the primary technical roles involved in reviewing or using this document during the ML delivery process.*
 
@@ -64,7 +64,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 * *Business Analysts*  
 * *Project Managers\]*
 
-## 1.3 Definitions, Acronyms, and Abbreviations {#definitions,-acronyms,-and-abbreviations}
+## 1.3 Definitions, Acronyms, and Abbreviations
 
 *\[Provide definitions of technical terms, abbreviations, and acronyms used throughout the document to ensure clarity and consistent understanding among project stakeholders.\]*
 
@@ -78,7 +78,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 | 6 |  |  |
 | 7\. |  |  |
 
-## 1.4 Document Overview {#document-overview}
+## 1.4 Document Overview
 
 *\[Provide a brief overview of the structure and contents of this document.*
 
@@ -92,7 +92,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 *These insights provide an initial understanding of the data and support subsequent activities in the Data Preparation and Modeling phases of the CRISP-DM process.\]*
 
-# 2 References {#references}
+# 2 References
 
 *\[List documents, frameworks, and artifacts referenced or used during the exploratory data analysis process. These may include related CRISP-DM deliverables, project documentation, and relevant methodological references.*  
 *Avoid listing unrelated materials.\]*
@@ -107,7 +107,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 | 6 |  |  |
 | 7\. |  |  |
 
-# 3 Dataset(s) Used {#dataset(s)-used}
+# 3 Dataset(s) Used
 
 *\[Provide a concise inventory of datasets used in the exploratory analysis and establish traceability to the [P02\_Data\_Dictionary\_Report\_T](./P02_Data_Dictionary_Report_T.md) (Task 2.2) where full structural details are documented.*
 
@@ -135,7 +135,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 # 
 
-# 4 Target Variable Profiling {#target-variable-profiling}
+# 4 Target Variable Profiling
 
 *\[Provide a focused analysis of the target variable used in the predictive modeling task.*
 
@@ -205,7 +205,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 *Due to this imbalance, Accuracy alone may not be a representative evaluation metric. During Phase 4 (Modeling), model performance should be assessed using metrics such as F1-score or AUC-ROC. Additionally, class balancing techniques may need to be considered to mitigate the impact of class imbalance on model performance.\]*
 
-# 5 Univariate Feature Analysis {#univariate-feature-analysis}
+# 5 Univariate Feature Analysis
 
 *\[Analyze the distribution and statistical characteristics of individual features independently in order to understand their behavior within the dataset.*
 
@@ -233,7 +233,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 *This section establishes a baseline understanding of individual feature behavior, which supports subsequent analysis of feature relationships and model-relevant patterns.\]*
 
-## 5.1 Numerical Feature Distributions {#numerical-feature-distributions}
+## 5.1 Numerical Feature Distributions
 
 *\[Analyze the statistical properties and distribution patterns of numerical features in the dataset.*  
 *The purpose of this section is to understand how numerical variables behave, identify distribution characteristics such as central tendency, spread, skewness, and potential extreme values, and detect patterns that may influence modeling or feature engineering decisions.\]*
@@ -272,7 +272,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 | ***\[Monthly\_Transactions\]*** | *\[14.2\]* | *\[12.0\]* | *\[8.5\]* | *\[0.0\]* | *\[65.0\]* | *\[Right-skewed\]* |
 | ***\[Tenure\_Months\]*** | *\[42.0\]* | *\[39.0\]* | *\[21.0\]* | *\[1.0\]* | *\[120.0\]* | *\[Slight right skew\]* |
 
-## 5.2 Categorical Feature Distributions {#categorical-feature-distributions}
+## 5.2 Categorical Feature Distributions
 
 *\[Analyze the distribution of categorical features to understand the relative frequency of categories and identify dominant or rare groups within the dataset.*
 
@@ -312,7 +312,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 # 
 
-# 6 Feature Relationship Analysis {#feature-relationship-analysis}
+# 6 Feature Relationship Analysis
 
 *\[Examine relationships between features in order to identify patterns, dependencies, and interactions that may provide predictive signals for the modeling task.*
 
@@ -340,7 +340,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 *This section should focus on observing and describing relationships rather than drawing final conclusions about model behavior. Deeper interpretation of findings will be documented later in Exploratory Insights (Section 8).\]*
 
-## 6.1 Feature vs Target Relationships {#feature-vs-target-relationships}
+## 6.1 Feature vs Target Relationships
 
 *\[Analyze how individual features behave across different values of the target variable in order to identify patterns that may indicate predictive relationships.*
 
@@ -394,7 +394,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 * *Stacked Bar Chart: Mobile\_App\_Usage by Churn\_Status*  
 * *Normalized Bar Chart: Region distribution by Churn\_Status\]*
 
-## 6.2 Inter-feature Correlations {#inter-feature-correlations}
+## 6.2 Inter-feature Correlations
 
 *\[Analyze statistical relationships between features in order to identify dependencies, redundancies, and potential multicollinearity within the dataset.*
 
@@ -446,7 +446,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 * ***Correlation Heatmap** displaying relationships between numerical features such as Age, Average\_Balance, Credit\_Limit, Monthly\_Transactions, Tenure\_Months*  
 * ***Scatter Plot for highly correlated feature pairs** (e.g., Credit\_Limit vs Average\_Balance) to visually inspect the relationship.\]*
 
-# 7 Behavioral Segments and Anomalies {#behavioral-segments-and-anomalies}
+# 7 Behavioral Segments and Anomalies
 
 *\[Identify and describe distinct behavioral segments and atypical observations revealed during exploratory analysis.*
 
@@ -495,7 +495,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 * *Scatter plot: Monthly\_Transactions vs Average\_Balance highlighting potential clusters*  
 * *Segment comparison bar charts summarizing average behavior across identified groups\]*
 
-# 8 Exploratory Insights {#exploratory-insights}
+# 8 Exploratory Insights
 
 *\[Summarize the key observations and patterns discovered during exploratory data analysis that help explain how the data behaves in the context of the business problem.*
 
@@ -540,7 +540,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 # 
 
-# 9 Initial Analytical Hypotheses {#initial-analytical-hypotheses}
+# 9 Initial Analytical Hypotheses
 
 *\[Formulate **initial analytical hypotheses** derived from exploratory data analysis that may guide subsequent modeling and analytical experimentation.*
 
@@ -585,7 +585,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 # 
 
-# 10 Potential Feature Engineering Opportunities {#potential-feature-engineering-opportunities}
+# 10 Potential Feature Engineering Opportunities
 
 *\[Capture **potential opportunities for feature engineering** identified during exploratory data analysis.*
 
