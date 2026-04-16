@@ -22,7 +22,7 @@ Document Name: **Data Quality Report**
 Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 
 ---
-# 1 Introduction {#introduction}
+# 1 Introduction
 
 *\[Provide a brief description of the purpose of this document and its role within the CRISP-DM process.*  
 *Explain that the report evaluates the quality of the datasets used in the project by assessing key dimensions such as completeness, consistency, validity, and potential data anomalies.*
@@ -37,7 +37,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 
 *The structural description of the datasets, including field definitions and metadata, is documented in the [P02\_Data\_Dictionary\_Report\_T](./P02_Data_Dictionary_Report_T.md) (Task 2.2). This report builds upon that documentation and evaluates the actual quality and usability of the data collected for analysis.\]*
 
-## 1.1 Purpose {#purpose}
+## 1.1 Purpose
 
 *\[Define the primary objective of the Data Quality Report within the CRISP-DM Data Understanding phase. The section clarifies that the document systematically evaluates the reliability and usability of the collected datasets before they are used for analytical modeling.\]*  
 *\[Briefly state why data quality assessment is required before proceeding to Data Preparation and Modeling phases. The section should explain that the report identifies potential issues related to completeness, consistency, validity, and integrity of the data.*
@@ -52,7 +52,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 
 *The findings documented in this report will guide data cleaning and transformation activities in Phase 3 \- Data Preparation, ensuring that the modeling process is based on reliable and well-understood data.\]*
 
-## 1.2 Audience {#audience}
+## 1.2 Audience
 
 *\[Identify the primary stakeholders who will use or reference the Data Quality Report. The section clarifies who the document is intended for and how it supports collaboration between technical and business roles during the Data Understanding phase.\]*  
 *\[List the main roles that rely on the Data Quality Report and briefly describe how they use the information. The audience typically includes both technical specialists responsible for data preparation and stakeholders overseeing analytical work.*
@@ -66,7 +66,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 * *Data Analysts \- to understand the reliability of datasets used for exploratory analysis.*  
 * *Project Manager / DS Lead \- to monitor potential risks related to data reliability and ensure appropriate mitigation actions are planned during the Data Preparation phase.\]*
 
-## 1.3 Definitions, Acronyms, and Abbreviations {#definitions,-acronyms,-and-abbreviations}
+## 1.3 Definitions, Acronyms, and Abbreviations
 
 *\[Provide definitions for technical terms, abbreviations, or dataset-specific concepts that are required to correctly interpret the Data Quality Report.\]*
 
@@ -82,7 +82,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 | 6 |  |  |
 | 7\. |  |  |
 
-## 1.4 Document Overview {#document-overview}
+## 1.4 Document Overview
 
 *\[Explain how the document is structured and how the sections relate to CRISP-DM Task 2.4 Verify data quality. Provide a short description of each major section to guide readers.\]*
 
@@ -96,7 +96,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 
 *Section 5, 6, 7 summarizes the main data quality findings and identifies potential risks that may affect subsequent data preparation and modeling tasks.\]*
 
-# 2 References {#references}
+# 2 References
 
 *\[Provide a list of documents that are referenced in this report and are necessary to correctly interpret the data quality assessment and its context within the CRISP-DM workflow.*  
 *List the key project documents referenced in this report. These typically include upstream documents that describe the project objectives and the acquired datasets, as well as documents that provide detailed metadata.*  
@@ -113,15 +113,15 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 | 6 |  |  |
 | 7\. |  |  |
 
-3. # Data Sources in Scope {#data-sources-in-scope}
+# 3 Data Sources in Scope
 
 *\[Identify the datasets included in the data quality verification process for this project. This section defines the scope of the quality assessment by listing the datasets that were examined as part of CRISP-DM Task 2.4 \- **Verify Data Quality**.\]*
 
 *\[Provide a structured list of all datasets that were evaluated for data quality in this report. For each dataset, include basic identification information such as dataset name, source system, and data format.*
 
-*The structural details of each dataset (tables, fields, and data types) are documented in the Data Dictionary Report (Task 2.2) and should not be duplicated here. This section serves only to confirm which datasets were included in the quality assessment.*
+*The structural details of each dataset (tables, fields, and data types) are documented in the [P02\_Data\_Dictionary\_Report\_T](./P02_Data_Dictionary_Report_T.md) (Task 2.2) and should not be duplicated here. This section serves only to confirm which datasets were included in the quality assessment.*
 
-*The list of datasets should correspond to the datasets previously identified in the Data Inventory Report (Task 2.1).\]*
+*The list of datasets should correspond to the datasets previously identified in the [P02\_Data\_Inventory\_Report\_T](./P02_Data_Inventory_Report_T.md) (Task 2.1).\]*
 
 *\[**Example**:\]*
 
@@ -134,7 +134,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 
 *\[These datasets were identified during Task 2.1 Collect Initial Data and structurally documented in the Data Dictionary Report (Task 2.2). The present report evaluates the quality of these datasets to determine their suitability for subsequent analytical tasks.\]*
 
-4. # Data Quality Assessment Framework {#data-quality-assessment-framework}
+# 4 Data Quality Assessment Framework
 
 *\[Define the methodological framework used to evaluate the quality of the datasets included in this report. This section explains the data quality dimensions and validation checks applied during the verification process in CRISP-DM Task 2.4  **Verify Data Quality.**\]*
 
@@ -171,7 +171,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 
 *Where applicable, project-specific data quality thresholds may be defined to determine acceptable levels of completeness, uniqueness, or validity.\]*
 
-5. # Dataset-Level Quality Overview {#dataset-level-quality-overview}
+# 5 Dataset-Level Quality Overview
 
 *\[Provide a high-level summary of the data quality assessment results for each dataset included in the scope of this report. This section offers a consolidated view of key quality indicators at the dataset level, allowing readers to quickly identify potential issues that may require further investigation.\]*
 
@@ -193,7 +193,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 
 *\[This overview indicates that most datasets demonstrate acceptable levels of completeness and uniqueness, although the Call Center dataset contains a higher proportion of missing values that will be analyzed further in the field-level assessment.\]*
 
-6. # Field-Level Data Quality Assessment {#field-level-data-quality-assessment}
+# 6 Field-Level Data Quality Assessment
 
 *\[Provide a detailed evaluation of data quality at the level of individual fields within the datasets included in the scope of this report. This section identifies specific attributes that may contain missing values, invalid entries, format inconsistencies, or other anomalies affecting analytical reliability.\]*
 
@@ -216,7 +216,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 | ***Dataset Name : \[Call\_Center\_Interactions\]*** |  |  |  |  |  |
 | *\[Call\_Outcome\]* | *\[Categorical\]* | *\[4\]* | *\[8%\]* | *\[None\]* | *\[Missing values: incomplete logging\]* |
 
-7. # Identified Data Quality Issues {#identified-data-quality-issues}
+# 7 Identified Data Quality Issues
 
 *\[Provide a consolidated register of data quality issues identified during the dataset-level and field-level assessments. This section formally documents specific problems detected in the data and evaluates their potential impact on analytical tasks.\]*
 
@@ -237,7 +237,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 | ***Dataset Name : \[Call\_Center\_Interactions\]*** |  |  |  |  |
 | *\[DQ-04\]* | *\[Call\_Outcome\]* | *\[Completeness\]* | *\[8% missing values\]* | *\[Reduces reliability of interaction signals\]* |
 
-8. # Impact Assessment on Analytical Tasks {#impact-assessment-on-analytical-tasks}
+# 8 Impact Assessment on Analytical Tasks
 
 *\[Evaluate how the identified data quality issues may affect subsequent analytical activities, including feature engineering, model training, and model evaluation. This section translates technical data quality findings into potential risks for analytical reliability.\]*
 
@@ -279,7 +279,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 
 *These observations help prioritize remediation actions that will be addressed during Phase 3\. Data Preparation.\]*
 
-9. # Recommended Data Cleaning Actions {#recommended-data-cleaning-actions}
+# 9 Recommended Data Cleaning Actions
 
 *\[Provide recommended actions to address the data quality issues identified in this report. This section outlines potential remediation approaches that can be implemented during CRISP-DM Phase 3\. Data Preparation to ensure that the datasets are suitable for reliable analytical modeling.\]*
 
@@ -298,7 +298,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 | ***\[DQ-03\]*** | *\[Filter invalid age values\]* | *\[Apply range validation (18–100); remove/correct\]* | *\[Likely data entry errors; protects age distribution\]* |
 | ***\[DQ-04\]*** | *\[Address missing call outcomes\]* | *\[Impute or introduce "Unknown" category\]* | *\[Essential for consistent categorical encoding\]* |
 
-10. # Data Quality Conclusion {#data-quality-conclusion}
+# 10 Data Quality Conclusion
 
 *\[Provide a final summary of the overall data quality assessment and determine whether the datasets evaluated in this report are suitable for further analytical processing. This section consolidates the main findings of the data quality verification performed in CRISP-DM Task 2.4  Verify Data Quality.\]*
 
