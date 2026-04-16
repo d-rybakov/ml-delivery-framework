@@ -22,7 +22,7 @@ Document Name: **Data Quality Report**
 Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 
 ---
-1. # Introduction {#introduction}
+# 1 Introduction {#introduction}
 
 *\[Provide a brief description of the purpose of this document and its role within the CRISP-DM process.*  
 *Explain that the report evaluates the quality of the datasets used in the project by assessing key dimensions such as completeness, consistency, validity, and potential data anomalies.*
@@ -37,7 +37,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 
 *The structural description of the datasets, including field definitions and metadata, is documented in the [P02\_Data\_Dictionary\_Report\_T](./P02_Data_Dictionary_Report_T.md) (Task 2.2). This report builds upon that documentation and evaluates the actual quality and usability of the data collected for analysis.\]*
 
-1. ## Purpose {#purpose}
+## 1.1 Purpose {#purpose}
 
 *\[Define the primary objective of the Data Quality Report within the CRISP-DM Data Understanding phase. The section clarifies that the document systematically evaluates the reliability and usability of the collected datasets before they are used for analytical modeling.\]*  
 *\[Briefly state why data quality assessment is required before proceeding to Data Preparation and Modeling phases. The section should explain that the report identifies potential issues related to completeness, consistency, validity, and integrity of the data.*
@@ -52,7 +52,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 
 *The findings documented in this report will guide data cleaning and transformation activities in Phase 3 \- Data Preparation, ensuring that the modeling process is based on reliable and well-understood data.\]*
 
-2. ## Audience {#audience}
+## 1.2 Audience {#audience}
 
 *\[Identify the primary stakeholders who will use or reference the Data Quality Report. The section clarifies who the document is intended for and how it supports collaboration between technical and business roles during the Data Understanding phase.\]*  
 *\[List the main roles that rely on the Data Quality Report and briefly describe how they use the information. The audience typically includes both technical specialists responsible for data preparation and stakeholders overseeing analytical work.*
@@ -66,7 +66,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 * *Data Analysts \- to understand the reliability of datasets used for exploratory analysis.*  
 * *Project Manager / DS Lead \- to monitor potential risks related to data reliability and ensure appropriate mitigation actions are planned during the Data Preparation phase.\]*
 
-  3. ## Definitions, Acronyms, and Abbreviations {#definitions,-acronyms,-and-abbreviations}
+## 1.3 Definitions, Acronyms, and Abbreviations {#definitions,-acronyms,-and-abbreviations}
 
 *\[Provide definitions for technical terms, abbreviations, or dataset-specific concepts that are required to correctly interpret the Data Quality Report.\]*
 
@@ -82,7 +82,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 | 6 |  |  |
 | 7\. |  |  |
 
-4. ## Document Overview {#document-overview}
+## 1.4 Document Overview {#document-overview}
 
 *\[Explain how the document is structured and how the sections relate to CRISP-DM Task 2.4 Verify data quality. Provide a short description of each major section to guide readers.\]*
 
@@ -96,7 +96,7 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 
 *Section 5, 6, 7 summarizes the main data quality findings and identifies potential risks that may affect subsequent data preparation and modeling tasks.\]*
 
-2. # References {#references}
+# 2 References {#references}
 
 *\[Provide a list of documents that are referenced in this report and are necessary to correctly interpret the data quality assessment and its context within the CRISP-DM workflow.*  
 *List the key project documents referenced in this report. These typically include upstream documents that describe the project objectives and the acquired datasets, as well as documents that provide detailed metadata.*  
