@@ -109,7 +109,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 3. # Dataset(s) Used {#dataset(s)-used}
 
-*\[Provide a concise inventory of datasets used in the exploratory analysis and establish traceability to the Data Dictionary Report (Task 2.2) where full structural details are documented.*
+*\[Provide a concise inventory of datasets used in the exploratory analysis and establish traceability to the [P02\_Data\_Dictionary\_Report\_T](./P02_Data_Dictionary_Report_T.md) (Task 2.2) where full structural details are documented.*
 
 *The purpose of this section is to clarify which datasets were included in the EDA scope while avoiding duplication of dataset structure, field definitions, or metadata already described in the Data Dictionary.\]*  
 *\[List all datasets used during the exploratory analysis. Each dataset should be referenced using the same name that appears in the Data Dictionary Report (P02\_Data\_Dictionary\_Report\_T) to ensure cross-document consistency.*
