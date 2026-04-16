@@ -112,7 +112,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 *\[Provide a concise inventory of datasets used in the exploratory analysis and establish traceability to the [P02\_Data\_Dictionary\_Report\_T](./P02_Data_Dictionary_Report_T.md) (Task 2.2) where full structural details are documented.*
 
 *The purpose of this section is to clarify which datasets were included in the EDA scope while avoiding duplication of dataset structure, field definitions, or metadata already described in the Data Dictionary.\]*  
-*\[List all datasets used during the exploratory analysis. Each dataset should be referenced using the same name that appears in the Data Dictionary Report (P02\_Data\_Dictionary\_Report\_T) to ensure cross-document consistency.*
+*\[List all datasets used during the exploratory analysis. Each dataset should be referenced using the same name that appears in the [Data Dictionary Report](./P02_Data_Dictionary_Report_T.md) to ensure cross-document consistency.*
 
 *This section should not repeat structural details such as field definitions, data types, or table schemas. Instead, it should provide a high-level overview of datasets used for analysis and a reference to the Data Dictionary where detailed dataset documentation is maintained.*
 
@@ -127,11 +127,11 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 | Dataset Name | Short Description | Source System | Analytical Role | Reference to Data Dictionary |
 | :---- | :---- | :---- | :---- | :---- |
-| *\[Customer Master Data\]* | *\[Core customer demographic and account profile information\]* | *\[CRM System\]* | *\[Primary customer dataset used for segmentation analysis\]* | *\[P02\_Data\_Dictionary\_Report\_T \- Customer Master Data\]* |
-| *\[Transaction History\]* | *\[Historical financial transactions performed by customers\]* | *\[Core Banking System\]* | *\[Behavioral activity dataset used to analyze transaction patterns\]* | *\[P02\_Data\_Dictionary\_Report\_T \- Transaction History\]* |
-| *\[Mobile App Activity Logs\]* | *\[Records of user interactions with the mobile banking application\]* | *\[Mobile Analytics Platform\]* | *\[Digital engagement dataset used to evaluate app usage behavior\]* | *\[P02\_Data\_Dictionary\_Report\_T \- Mobile App Activity\]* |
-| *\[Customer Support Logs\]* | *\[Customer service interaction records including complaints and requests\]* | *\[Call Center System\]* | *\[Service interaction dataset used to explore churn-related support behavior\]* | *\[P02\_Data\_Dictionary\_Report\_T \- Customer Support Logs\]* |
-| *\[Historical Churn Labels\]* | *\[Historical churn outcomes for customers\]* | *\[Data Warehouse\]* | *\[Target label dataset used for churn classification analysis\]* | *\[P02\_Data\_Dictionary\_Report\_T \- Churn Labels\]* |
+| *\[Customer Master Data\]* | *\[Core customer demographic and account profile information\]* | *\[CRM System\]* | *\[Primary customer dataset used for segmentation analysis\]* | *\[[P02\_Data\_Dictionary\_Report\_T](./P02_Data_Dictionary_Report_T.md) \- Customer Master Data\]* |
+| *\[Transaction History\]* | *\[Historical financial transactions performed by customers\]* | *\[Core Banking System\]* | *\[Behavioral activity dataset used to analyze transaction patterns\]* | *\[[P02\_Data\_Dictionary\_Report\_T](./P02_Data_Dictionary_Report_T.md) \- Transaction History\]* |
+| *\[Mobile App Activity Logs\]* | *\[Records of user interactions with the mobile banking application\]* | *\[Mobile Analytics Platform\]* | *\[Digital engagement dataset used to evaluate app usage behavior\]* | *\[[P02\_Data\_Dictionary\_Report\_T](./P02_Data_Dictionary_Report_T.md) \- Mobile App Activity\]* |
+| *\[Customer Support Logs\]* | *\[Customer service interaction records including complaints and requests\]* | *\[Call Center System\]* | *\[Service interaction dataset used to explore churn-related support behavior\]* | *\[[P02\_Data\_Dictionary\_Report\_T](./P02_Data_Dictionary_Report_T.md) \- Customer Support Logs\]* |
+| *\[Historical Churn Labels\]* | *\[Historical churn outcomes for customers\]* | *\[Data Warehouse\]* | *\[Target label dataset used for churn classification analysis\]* | *\[[P02\_Data\_Dictionary\_Report\_T](./P02_Data_Dictionary_Report_T.md) \- Churn Labels\]* |
 
 # 
 
