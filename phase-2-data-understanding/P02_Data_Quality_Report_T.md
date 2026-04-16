@@ -29,14 +29,13 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 
 *The introduction should clarify that the objective of this report is to identify data quality risks that may impact downstream analytical tasks, particularly Data Preparation (Phase 3\) and Modeling (Phase 4).*
 
-*Also state that detailed dataset structure, field definitions, and metadata are documented separately in the Data Dictionary Report (Task 2.2) and are referenced in this document when needed. The Data Quality Report focuses specifically on assessing whether the available data is suitable for reliable analysis and modeling.\]*
+*Also state that detailed dataset structure, field definitions, and metadata are documented separately in the [P02\_Data\_Dictionary\_Report\_T](./P02_Data_Dictionary_Report_T.md) (Task 2.2) and are referenced in this document when needed. The Data Quality Report focuses specifically on assessing whether the available data is suitable for reliable analysis and modeling.\]*
 
-*\[Example:*  
-*This document evaluates the quality of the datasets used in the Customer Churn Prediction project. The objective of the report is to assess whether the available data is sufficiently complete, consistent, and reliable to support exploratory analysis and predictive modeling.*
+*\[**Example**: This document evaluates the quality of the datasets used in the Customer Churn Prediction project. The objective of the report is to assess whether the available data is sufficiently complete, consistent, and reliable to support exploratory analysis and predictive modeling.*
 
 *The assessment focuses on identifying potential data issues such as missing values, duplicate records, invalid formats, and anomalous values that could affect model performance.*
 
-*The structural description of the datasets, including field definitions and metadata, is documented in the Data Dictionary Report (Task 2.2). This report builds upon that documentation and evaluates the actual quality and usability of the data collected for analysis.\]*
+*The structural description of the datasets, including field definitions and metadata, is documented in the [P02\_Data\_Dictionary\_Report\_T](./P02_Data_Dictionary_Report_T.md) (Task 2.2). This report builds upon that documentation and evaluates the actual quality and usability of the data collected for analysis.\]*
 
 1. ## Purpose {#purpose}
 
