@@ -22,7 +22,7 @@ Document Name: **Exploratory Data Analysis Report**
 Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 ---
-1. # Introduction {#introduction}
+# 1 Introduction {#introduction}
 
 *\[Provide a brief explanation of the purpose of the Exploratory Data Analysis (EDA) Report.*  
 *Describe how exploratory analysis supports understanding of dataset characteristics,*  
@@ -40,7 +40,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 *The findings documented in this report support subsequent phases of*  
 *the CRISP-DM process, particularly Data Preparation and Modeling.\]*
 
-1. ## Purpose {#purpose}
+## 1.1 Purpose {#purpose}
 
 *\[Describe the purpose of the Exploratory Data Analysis (EDA) Report.*
 
@@ -52,7 +52,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 *The analysis focuses on identifying behavioral patterns and early signals associated with customer churn, which may guide subsequent feature engineering and modeling activities.\]*
 
-2. ## Audience {#audience}
+## 1.2 Audience {#audience}
 
 *\[List the primary technical roles involved in reviewing or using this document during the ML delivery process.*
 
@@ -72,7 +72,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 * *Business Analysts*  
 * *Project Managers\]*
 
-  3. ## Definitions, Acronyms, and Abbreviations {#definitions,-acronyms,-and-abbreviations}
+## 1.3 Definitions, Acronyms, and Abbreviations {#definitions,-acronyms,-and-abbreviations}
 
 *\[Provide definitions of technical terms, abbreviations, and acronyms used throughout the document to ensure clarity and consistent understanding among project stakeholders.\]*
 
@@ -86,7 +86,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 | 6 |  |  |
 | 7\. |  |  |
 
-4. ## Document Overview {#document-overview}
+## 1.4 Document Overview {#document-overview}
 
 *\[Provide a brief overview of the structure and contents of this document.*
 
@@ -100,7 +100,7 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 *These insights provide an initial understanding of the data and support subsequent activities in the Data Preparation and Modeling phases of the CRISP-DM process.\]*
 
-2. # References {#references}
+# 2 References {#references}
 
 *\[List documents, frameworks, and artifacts referenced or used during the exploratory data analysis process. These may include related CRISP-DM deliverables, project documentation, and relevant methodological references.*  
 *Avoid listing unrelated materials.\]*
