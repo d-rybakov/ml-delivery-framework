@@ -106,9 +106,9 @@ Working version: [Google Doc template](https://cutt.ly/HtPh95g5)
 | \# | Document | Explanation |
 | ----- | :---- | :---- |
 | 1\. | *\[[P01_Project_Plan_G](../phase-1-business-understanding/P01_Project_Plan_G.md)\]* | *\[Defines business objectives and analytical scope for churn prediction.\]* |
-| 2\. | *\[P02\_Data\_Inventory\_Report\_T\]* | *\[Lists all datasets acquired for the project and provides high-level metadata for each source.\]* |
-| 3\. | *\[P02\_Data\_Dictionary\_Report\_T\]* | *\[Provides detailed field-level metadata (field names, data types, descriptions) for the datasets evaluated in this report.\]* |
-| 4\. | *\[P02\_Exploratory\_Data\_Analysis\_Report\_T\]* | *\[Documents exploratory analysis findings that may highlight anomalies or quality issues further investigated in this report.\]* |
+| 2\. | *\[[P02\_Data\_Inventory\_Report\_T](./P02_Data_Inventory_Report_T.md)\]* | *\[Lists all datasets acquired for the project and provides high-level metadata for each source.\]* |
+| 3\. | *\[[P02\_Data\_Dictionary\_Report\_T](./P02_Data_Dictionary_Report_T.md)\]* | *\[Provides detailed field-level metadata (field names, data types, descriptions) for the datasets evaluated in this report.\]* |
+| 4\. | *\[[P02\_Exploratory\_Data\_Analysis\_Report\_T](./P02_Exploratory_Data_Analysis_Report_T.md)\]* | *\[Documents exploratory analysis findings that may highlight anomalies or quality issues further investigated in this report.\]* |
 | 5\. |  |  |
 | 6 |  |  |
 | 7\. |  |  |
