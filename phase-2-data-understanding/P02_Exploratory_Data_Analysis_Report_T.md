@@ -99,8 +99,8 @@ Working version: [Google Doc template](https://cutt.ly/KtPh0H2a)
 
 | \# | Document | Explanation |
 | ----- | :---- | :---- |
-| 1\. | *\[P02\_Data\_Inventory\_Report\_T\]* | *\[Data sources and acquisition context\]* |
-| 2\. | *\[P02\_Data\_Dictionary\_Report\_T\]* | *\[Structural description of datasets\]* |
+| 1\. | *\[[P02\_Data\_Inventory\_Report\_T](./P02_Data_Inventory_Report_T.md)\]* | *\[Data sources and acquisition context\]* |
+| 2\. | *\[[P02\_Data\_Dictionary\_Report\_T\](./P02_Data_Dictionary_Report_T.md)\]* | *\[Structural description of datasets\]* |
 | 3\. | *\[CRISP-DM 1.0\]* | *\[Cross Industry Standard Process for Data Mining\]* |
 | 4\. |  |  |
 | 5\. |  |  |
